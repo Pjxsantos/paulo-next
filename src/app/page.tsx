@@ -19,7 +19,7 @@ export default function Home() {
     href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i"
   />
     <meta
-    content="https://pjxsantos.github.io/paulo-next/images/android-chrome-512x512.png"
+    content="https://portfolio-pjxsantos.vercel.app/images/android-chrome-512x512.png"
     property="og:image"
   />
   <meta name="theme-color" content="#333333" />
