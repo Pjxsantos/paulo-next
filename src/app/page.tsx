@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <>
+    <div>
   <link rel="stylesheet" href="css/style.css" media="screen" />
   <link rel="stylesheet" href="css/px.css" media="screen" />
   <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
@@ -397,7 +397,7 @@ export default function Home() {
                       data-href="https://tmfibra.com.br/"
                     >
                       {" "}
-                      TM FIBRA SERVICOS TELECOM&apos;LTDA
+                      TM FIBRA SERVICOS TELECOM&nbsp;LTDA
                     </a>
                   </h3>
                   <p className="u-text u-text-3">
@@ -550,7 +550,7 @@ export default function Home() {
           Não é a linguagem de programação que define o programador, mas sim sua
           lógica.
         </span>
-        &apos;<span style={{ fontSize: "1.125rem" }}>😉</span>
+        &nbsp;<span style={{ fontSize: "1.125rem" }}>😉</span>
       </p>
       <a
         href="https://www.ev.org.br/areas-de-interesse/programacao"
@@ -804,7 +804,7 @@ export default function Home() {
     </span>
   </a>
   </main>
-</>
+</div>
 
 
   )
