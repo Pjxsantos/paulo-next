@@ -661,7 +661,7 @@ export default function Home() {
   </section>
   <section
     className="u-clearfix u-grey-80 u-lightbox u-section-5"
-    id="carousel_51fd"
+    
   >
     <div className="u-clearfix u-sheet u-sheet-1">
       <div
@@ -751,7 +751,7 @@ export default function Home() {
         {" "}
         Copyright © 2023 – Todos os Direitos Reservados.
       </p>
-      <div className="u-hover-feature u-social-icons u-spacing-10 u-social-icons-1">
+      <div id="carousel_51fd" className="u-hover-feature u-social-icons u-spacing-10 u-social-icons-1">
         <a
           className="u-social-url"
           title="Github"
