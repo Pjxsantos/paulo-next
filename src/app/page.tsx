@@ -3,6 +3,8 @@ import Image from 'next/image'
 export default function Home() {
   return (
     <div>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charSet="utf-8" />
   <link rel="stylesheet" href="css/style.css" media="screen" />
   <link rel="stylesheet" href="css/px.css" media="screen" />
   <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
@@ -805,7 +807,5 @@ export default function Home() {
   </a>
   </main>
 </div>
-
-
   )
 }
