@@ -86,15 +86,6 @@ export default function Home() {
                 Incentivos para programador
               </a>
             </li>
-            <li className="u-nav-item">
-              <a
-                className="u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
-                href="#carousel_51fd"
-                style={{ padding: "10px 0px" }}
-              >
-                Contato
-              </a>
-            </li>
           </ul>
         </div>
         <div className="u-custom-menu u-nav-container-collapse">
@@ -124,14 +115,6 @@ export default function Home() {
                     href="#carousel_06f4"
                   >
                     Incentivos para programador
-                  </a>
-                </li>
-                <li className="u-nav-item">
-                  <a
-                    className="u-button-style u-nav-link"
-                    href="#carousel_51fd"
-                  >
-                    Contato
                   </a>
                 </li>
               </ul>
@@ -661,7 +644,7 @@ export default function Home() {
   </section>
   <section
     className="u-clearfix u-grey-80 u-lightbox u-section-5"
-    
+    id="carousel_51fd"
   >
     <div className="u-clearfix u-sheet u-sheet-1">
       <div
@@ -751,7 +734,7 @@ export default function Home() {
         {" "}
         Copyright © 2023 – Todos os Direitos Reservados.
       </p>
-      <div id="carousel_51fd" className="u-hover-feature u-social-icons u-spacing-10 u-social-icons-1">
+      <div className="u-hover-feature u-social-icons u-spacing-10 u-social-icons-1">
         <a
           className="u-social-url"
           title="Github"
