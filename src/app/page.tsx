@@ -658,7 +658,7 @@ export default function Home() {
           </span>
           <span
             className="u-border-3 u-border-custom-color-4 u-file-icon u-hover-feature u-icon u-icon-circle u-opacity u-opacity-0 u-text-custom-color-4 u-icon-2"
-            data-href="https://t.me/Pjxsantos"
+            data-href="https://t.me/Pjxsantosbot"
           >
             <img src="images/2111813-28eda188.png" alt="" />
           </span>
