@@ -6,7 +6,17 @@ export default function Home() {
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta charSet="utf-8" />
   <link rel="stylesheet" href="css/style.css" media="screen" />
-  <link rel="stylesheet" href="css/px.css" media="screen" />
+  <link rel="stylesheet" href="css/pj.css" media="screen" />
+  <link
+    id="u-theme-google-font"
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i"
+  />
+  <link
+    id="u-page-google-font"
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Allerta+Stencil:400|Aclonica:400"
+  />
   <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
   <link
     id="u-theme-google-font"
@@ -26,8 +36,8 @@ export default function Home() {
   <meta property="og:title" content="Portfólio Paulo Jorge" />
   <meta property="og:type" content="website" />
   <link rel="canonical" href="/" />
-<main data-home-page="" data-home-page-title="Portfólio Paulo Jorge" data-path-to-root="./" data-include-products="false" className="u-body u-overlap u-overlap-contrast u-overlap-transparent u-xl-mode" data-lang="pt">  
-  <header
+<main data-home-page="" data-home-page-title="Portfólio Paulo Jorge" data-home-page-title="Página Inicial" data-path-to-root="./" data-include-products="false" className="u-body u-overlap u-overlap-transparent u-xl-mode" data-lang="pt">
+<header
     className="u-box-shadow u-clearfix u-header u-sticky u-sticky-8faa u-header"
     id="sec-13ef"
   >
@@ -62,7 +72,7 @@ export default function Home() {
             <li className="u-nav-item">
               <a
                 className="u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
-                href="#sec-9cf6"
+                href="Página-Inicial.html#sec-c00f"
                 style={{ padding: "10px 0px" }}
               >
                 Inicio
@@ -71,19 +81,28 @@ export default function Home() {
             <li className="u-nav-item">
               <a
                 className="u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
-                href="#carousel_0d83"
+                href="Página-Inicial.html#carousel_c359"
                 style={{ padding: "10px 0px" }}
               >
-                Meus Projetos
+                Sobre
               </a>
             </li>
             <li className="u-nav-item">
               <a
                 className="u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
-                href="#carousel_06f4"
+                href="Página-Inicial.html#carousel_a0bf"
                 style={{ padding: "10px 0px" }}
               >
                 Incentivos para programador
+              </a>
+            </li>
+            <li className="u-nav-item">
+              <a
+                className="u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
+                href="Página-Inicial.html#carousel_c456"
+                style={{ padding: "10px 0px" }}
+              >
+                Contato
               </a>
             </li>
           </ul>
@@ -92,11 +111,11 @@ export default function Home() {
           <div className="u-black u-border-20 u-border-white u-container-style u-inner-container-layout u-opacity u-opacity-90 u-sidenav">
             <div className="u-inner-container-layout u-sidenav-overflow">
               <div className="u-menu-close" />
-              <ul className="u-align-center u-nav u-popupmenu-items u-spacing-12 u-text-active-custom-color-4 u-text-hover-custom-color-4 u-unstyled u-nav-2">
+              <ul className="u-align-center u-nav u-popupmenu-items u-spacing-12 u-text-active-custom-color-2 u-text-hover-custom-color-2 u-unstyled u-nav-2">
                 <li className="u-nav-item">
                   <a
                     className="u-button-style u-nav-link"
-                    href="#sec-9cf6"
+                    href="Página-Inicial.html#sec-c00f"
                   >
                     Inicio
                   </a>
@@ -104,17 +123,25 @@ export default function Home() {
                 <li className="u-nav-item">
                   <a
                     className="u-button-style u-nav-link"
-                    href="#carousel_0d83"
+                    href="Página-Inicial.html#carousel_c359"
                   >
-                    Meus Projetos
+                    Sobre
                   </a>
                 </li>
                 <li className="u-nav-item">
                   <a
                     className="u-button-style u-nav-link"
-                    href="#carousel_06f4"
+                    href="Página-Inicial.html#carousel_a0bf"
                   >
                     Incentivos para programador
+                  </a>
+                </li>
+                <li className="u-nav-item">
+                  <a
+                    className="u-button-style u-nav-link"
+                    href="Página-Inicial.html#carousel_c456"
+                  >
+                    Contato
                   </a>
                 </li>
               </ul>
@@ -123,6 +150,12 @@ export default function Home() {
           <div className="u-black u-menu-overlay u-opacity u-opacity-70" />
         </div>
       </nav>
+      <p className="u-small-text u-text u-text-black u-text-default u-text-variant u-text-2">
+        BRASIL 13:24:30
+      </p>
+      <p className="u-small-text u-text u-text-black u-text-default u-text-variant u-text-3">
+        2024
+      </p>
     </div>
     <style
       className="u-sticky-style"
@@ -133,537 +166,355 @@ export default function Home() {
       }}
     />
   </header>
-  <section className="u-clearfix u-grey-80 u-section-1" id="sec-9cf6">
-    <div className="u-clearfix u-sheet u-sheet-1" />
+  <section
+    className="u-clearfix u-gradient u-uploaded-video u-valign-top-lg u-valign-top-sm u-valign-top-xl u-section-1"
+    id="sec-c00f"
+  >
+    <img
+      className="custom-expanded infinite u-expanded-height-sm u-image u-image-default u-image-1"
+      src="images/65774432e96eb355932661b3_1left.svg"
+      alt=""
+      data-image-width={973}
+      data-image-height={1686}
+      data-animation-name="pulse"
+      data-animation-duration={3250}
+      data-animation-direction=""
+      data-animation-delay={2000}
+    />
+    <div className="u-container-style u-group u-shape-rectangle u-group-1">
+      <div className="u-container-layout u-container-layout-1">
+        <h2
+          className="u-align-left u-custom-font u-text u-text-custom-color-2 u-text-default u-text-1"
+          data-animation-name="customAnimationIn"
+          data-animation-duration={1000}
+        >
+          {" "}
+          DESIGN DIGITAL
+        </h2>
+        <h1
+          className="u-align-left u-custom-font u-text u-text-white u-text-2"
+          data-animation-name="customAnimationIn"
+          data-animation-duration={1000}
+        >
+          {" "}
+          Produtos digitais que estão mudando este mundo
+        </h1>
+        <div className="u-container-align-left-lg u-container-align-left-md u-container-align-left-sm u-container-align-left-xl u-container-style u-group u-shape-rectangle u-group-2">
+          <div className="u-container-layout u-container-layout-2">
+            <span
+              className="u-align-left u-border-2 u-border-custom-color-2 u-file-icon u-hover-feature u-icon u-icon-rounded u-radius u-icon-1"
+              data-animation-name="customAnimationIn"
+              data-animation-duration={1000}
+              data-href="https://www.linkedin.com/in/pjxsantos/"
+            >
+              <img src="images/icons8-linkedin-94.png" alt="" />
+            </span>
+            <span
+              className="u-align-left u-border-2 u-border-custom-color-2 u-file-icon u-hover-feature u-icon u-icon-circle u-icon-2"
+              data-animation-name="customAnimationIn"
+              data-animation-duration={1000}
+              data-href="https://github.com/Pjxsantos"
+            >
+              <img src="images/icons8-github-94.png" alt="" />
+            </span>
+          </div>
+        </div>
+        <p
+          className="u-align-left u-text u-text-body-alt-color u-text-3"
+          data-animation-name="customAnimationIn"
+          data-animation-duration={1000}
+        >
+          {" "}
+          Desenvolvedor: Paulo Jorge{" "}
+        </p>
+        <a
+          href="mailto:pjxsantos.portfolio@gmail.com"
+          className="u-active-none u-align-left u-border-2 u-border-hover-grey-75 u-border-no-left u-border-no-right u-border-no-top u-border-white u-btn u-button-style u-hover-none u-none u-btn-1"
+          data-animation-name="customAnimationIn"
+          data-animation-duration={1000}
+        >
+          pauloaminsantos@gmail.com{" "}
+        </a>
+      </div>
+    </div>
   </section>
   <section
-    className="u-align-center-lg u-align-center-md u-align-center-xl u-align-center-xs u-align-left-sm u-clearfix u-grey-80 u-section-2"
-    id="carousel_3700"
+    className="u-align-center u-clearfix u-grey-80 u-section-2"
+    id="carousel_c359"
   >
+    <div className="u-clearfix u-sheet u-valign-middle-lg u-sheet-1">
+      <div className="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div className="u-gutter-0 u-layout">
+          <div className="u-layout-row">
+            <div
+              className="u-container-style u-image u-image-round u-layout-cell u-radius u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-image-1"
+              data-image-width={905}
+              data-image-height={2031}
+              data-animation-name="customAnimationIn"
+              data-animation-duration={1000}
+            >
+              <div className="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-1">
+                <div
+                  className="u-border-2 u-border-grey-70 u-hover-feature u-image u-image-circle u-radius u-image-2"
+                  data-image-width={460}
+                  data-image-height={460}
+                  data-animation-name="customAnimationIn"
+                  data-animation-duration={1000}
+                />
+              </div>
+            </div>
+            <div
+              className="u-container-style u-layout-cell u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-2"
+              data-animation-name="customAnimationIn"
+              data-animation-duration={1000}
+            >
+              <div className="u-container-layout u-container-layout-2">
+                <h3 className="u-align-center u-custom-font u-hover-feature u-text u-text-custom-color-2 u-text-1">
+                  {" "}
+                  UM POUCO S​OBRE MIM​ ! Quem sou eu?
+                </h3>
+                <h5 className="u-align-center u-custom-font u-text u-text-2">
+                  {" "}
+                  Desenvolvedor Front-End!
+                </h5>
+                <p className="u-align-center u-heading-font u-text u-text-3">
+                  <span className="u-text-custom-color-2">&lt; </span>Meu nome é
+                  Paulo Jorge, crio web designs personalizados. Tenho habilidade
+                  em escrever códigos bem projetados, testáveis ​e eficientes
+                  usando as melhores práticas atuais em desenvolvimento Web.
+                  Aprendo rápido, trabalho duro e trabalho em equipe, com
+                  proficiência na criação de páginas da web criativas e
+                  inovadoras.{" "}
+                  <span className="u-text-custom-color-2">/&gt;</span>&nbsp;
+                  <br />
+                </p>
+                <div
+                  className="u-hover-feature u-social-icons u-spacing-31 u-social-icons-1"
+                  data-animation-name="customAnimationIn"
+                  data-animation-duration={1000}
+                >
+                  <a
+                    className="u-social-url"
+                    title="facebook"
+                    target="_blank"
+                    href="https://facebook.com/name"
+                  >
+                    <span className="u-file-icon u-icon u-social-facebook u-social-icon u-text-custom-color-2 u-icon-1">
+                      <img src="images/1051328-f1b66de2.png" alt="" />
+                    </span>
+                  </a>
+                  <a
+                    className="u-social-url"
+                    title="twitter"
+                    target="_blank"
+                    href="https://twitter.com/name"
+                  >
+                    <span className="u-file-icon u-icon u-social-icon u-social-twitter u-text-custom-color-2 u-icon-2">
+                      <img src="images/732007-b315c01f.png" alt="" />
+                    </span>
+                  </a>
+                  <a
+                    className="u-social-url"
+                    title="instagram"
+                    target="_blank"
+                    href="https://instagram.com/name"
+                  >
+                    <span className="u-file-icon u-icon u-social-icon u-social-instagram u-text-custom-color-2 u-icon-3">
+                      <img src="images/721671-af28a746.png" alt="" />
+                    </span>
+                  </a>
+                  <a
+                    className="u-social-url"
+                    target="_blank"
+                    data-type="Github"
+                    title="Github"
+                    href=""
+                  >
+                    <span className="u-file-icon u-icon u-social-github u-social-icon u-text-custom-color-2 u-icon-4">
+                      <img src="images/1126012-84d82a33.png" alt="" />
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section className="u-clearfix u-grey-80 u-section-3" id="carousel_a0bf">
     <div className="u-clearfix u-sheet u-sheet-1">
-      <div
-        className="infinite u-custom-color-4 u-expanded-width-xs u-preserve-proportions u-shape u-shape-circle u-shape-1"
-        data-animation-name="pulse"
-        data-animation-duration={5000}
-        data-animation-delay={0}
-        data-animation-direction=""
-      >
-        <div
-          className="u-preserve-proportions-child"
-          style={{ paddingTop: "100%" }}
-        />
-      </div>
-      <div
-        className="infinite u-border-7 u-border-white u-expanded-width-xs u-hover-feature u-image u-image-circle u-preserve-proportions u-image-1"
-        data-image-width={460}
-        data-image-height={460}
-        data-animation-name="pulse"
-        data-animation-duration={5000}
-        data-animation-direction=""
-      >
-        <div
-          className="u-preserve-proportions-child"
-          style={{ paddingTop: "100%" }}
-        />
-      </div>
       <h2
-        className="u-align-left u-hover-feature u-text u-text-1"
+        className="u-align-center-xs u-custom-font u-hover-feature u-text u-text-default u-text-white u-text-1"
         data-animation-name="customAnimationIn"
         data-animation-duration={1000}
       >
-        <span style={{ fontSize: "1.5rem" }}>UM POUCO SOBRE MIM</span>
-        <br />
-        <span style={{ fontSize: "2.25rem" }}>Quem sou eu?</span>
-      </h2>
-      <span
-        className="u-border-2 u-border-custom-color-4 u-file-icon u-hover-feature u-icon u-icon-circle u-text-custom-color-4 u-icon-1"
-        data-animation-name="customAnimationIn"
-        data-animation-duration={1000}
-        data-href="https://github.com/Pjxsantos"
-      >
-        <img src="images/1051377-bf1da334.png" alt="" />
-      </span>
-      <span
-        className="u-border-2 u-border-custom-color-4 u-file-icon u-hover-feature u-icon u-icon-circle u-text-custom-color-4 u-icon-2"
-        data-animation-name="customAnimationIn"
-        data-animation-duration={1000}
-        data-href="https://www.linkedin.com/in/pjxsantos/"
-      >
-        <img src="images/11379996-c4ca9175.png" alt="" />
-      </span>
-      <h5
-        className="u-align-left u-hover-feature u-text u-text-default u-text-2"
-        data-animation-name="customAnimationIn"
-        data-animation-duration={1000}
-      >
-        {" "}
-        Desenvolvedor Front-End!
-      </h5>
-      <h3
-        className="u-align-left u-custom-font u-font-open-sans u-hover-feature u-text u-text-3"
-        data-animation-name="flipIn"
-        data-animation-duration={2000}
-        data-animation-direction="X"
-        data-animation-delay={1000}
-      >
-        <span className="u-text-custom-color-4" style={{ fontWeight: 700 }}>
-          &lt;
-        </span>{" "}
-        Meu nome é{" "}
-        <span className="u-text-custom-color-4" style={{ fontWeight: 700 }}>
-          Paulo Jorge
-        </span>
-        , crio web designs personalizados. Tenho habilidade em escrever códigos
-        bem projetados, testáveis ​e eficientes usando as melhores práticas
-        atuais em desenvolvimento Web. Aprendo rápido, trabalho duro e trabalho
-        em equipe, com proficiência na criação de páginas da web criativas e
-        inovadoras.{" "}
-        <span className="u-text-custom-color-4" style={{ fontWeight: 700 }}>
-          /&gt;
-        </span>
-      </h3>
-      <a
-        href="#carousel_51fd"
-        className="u-active-grey-80 u-align-center u-border-active-grey-80 u-border-hover-grey-80 u-btn u-button-style u-hover-black u-hover-feature u-radius u-text-active-white u-text-hover-custom-color-4 u-btn-1"
-        data-animation-name="customAnimationIn"
-        data-animation-duration={1000}
-        data-animation-delay={0}
-        data-animation-direction=""
-      >
-        {" "}
-        envie uma mensagem
-      </a>
-      <div className="u-expanded-width u-list u-list-1">
-        <div className="u-repeater u-repeater-1">
-          <div
-            className="u-align-left u-border-10 u-border-custom-color-2 u-border-no-left u-border-no-right u-border-no-top u-container-style u-custom-item u-grey-70 u-list-item u-radius u-repeater-item u-shape-round u-video-cover u-list-item-1"
-            data-animation-out={1}
-            data-animation-name="customAnimationIn"
-            data-animation-duration={1000}
-            data-animation-delay={1250}
-          >
-            <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-1">
-              <span
-                className="u-custom-item u-file-icon u-hover-feature u-icon u-icon-3"
-                data-animation-name="customAnimationIn"
-                data-animation-duration={1500}
-                data-animation-delay={750}
-              >
-                <img src="images/1051277.png" alt="" />
-              </span>
-              <h4 className="u-text u-text-4"> HTML</h4>
-              <a
-                href="https://github.com/topics/html"
-                className="u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-custom-item u-none u-radius-0 u-text-active-custom-color-2 u-text-body-color u-text-hover-custom-color-2 u-top-left-radius-0 u-top-right-radius-0 u-btn-2"
-              >
-                {" "}
-                mais
-              </a>
-            </div>
-          </div>
-          <div
-            className="u-align-left u-border-10 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-container-style u-custom-item u-grey-70 u-list-item u-radius u-repeater-item u-shape-round u-video-cover u-list-item-2"
-            data-animation-name="customAnimationIn"
-            data-animation-duration={1000}
-            data-animation-delay={1750}
-          >
-            <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-2">
-              <span
-                className="u-custom-item u-file-icon u-hover-feature u-icon u-icon-4"
-                data-animation-name="customAnimationIn"
-                data-animation-duration={1500}
-                data-animation-delay={750}
-              >
-                <img src="images/732190.png" alt="" />
-              </span>
-              <h4 className="u-text u-text-5">CSS</h4>
-              <a
-                href="https://github.com/topics/css"
-                className="u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-custom-item u-none u-radius-0 u-text-active-palette-1-base u-text-body-color u-text-hover-palette-1-base u-top-left-radius-0 u-top-right-radius-0 u-btn-3"
-              >
-                {" "}
-                mais
-              </a>
-            </div>
-          </div>
-          <div
-            className="u-align-left u-border-10 u-border-no-left u-border-no-right u-border-no-top u-border-palette-3-base u-container-style u-custom-item u-grey-70 u-list-item u-radius u-repeater-item u-shape-round u-video-cover u-list-item-3"
-            data-animation-name="customAnimationIn"
-            data-animation-duration={1000}
-            data-animation-delay={1750}
-          >
-            <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-3">
-              <span
-                className="u-custom-item u-file-icon u-hover-feature u-icon u-icon-5"
-                data-animation-name="customAnimationIn"
-                data-animation-duration={1500}
-                data-animation-delay={750}
-              >
-                <img src="images/5968292.png" alt="" />
-              </span>
-              <h4 className="u-text u-text-6">JAVASCRIPT</h4>
-              <a
-                href="https://github.com/topics/javascript"
-                className="u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-custom-item u-none u-radius-0 u-text-active-palette-3-base u-text-body-color u-text-hover-palette-3-base u-top-left-radius-0 u-top-right-radius-0 u-btn-4"
-              >
-                {" "}
-                mais
-              </a>
-            </div>
-          </div>
-          <div
-            className="u-align-left u-border-10 u-border-custom-color-3 u-border-no-left u-border-no-right u-border-no-top u-container-style u-custom-item u-grey-70 u-list-item u-radius u-repeater-item u-shape-round u-video-cover u-list-item-4"
-            data-animation-name="customAnimationIn"
-            data-animation-duration={1000}
-            data-animation-delay={1750}
-          >
-            <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-4">
-              <span
-                className="u-custom-item u-file-icon u-hover-feature u-icon u-icon-6"
-                data-animation-name="customAnimationIn"
-                data-animation-duration={1500}
-                data-animation-delay={750}
-              >
-                <img src="images/3334886.png" alt="" />
-              </span>
-              <h4 className="u-text u-text-7">REACT</h4>
-              <a
-                href="https://github.com/topics/react"
-                className="u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-custom-item u-none u-radius-0 u-text-active-custom-color-3 u-text-body-color u-text-hover-custom-color-3 u-top-left-radius-0 u-top-right-radius-0 u-btn-5"
-              >
-                {" "}
-                mais
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section className="u-clearfix u-grey-80 u-section-3" id="carousel_0d83">
-    <div className="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-sheet-1">
-      <h4 className="u-align-center u-text u-text-custom-color-4 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-font u-text-1">
-        Meus Projetos
-      </h4>
-      <div
-        id="carousel-ee83"
-        data-interval={5000}
-        data-u-ride="carousel"
-        className="u-border-2 u-border-grey-80 u-carousel u-expanded-width u-slider u-slider-1"
-      >
-        <ol className="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
-          <li
-            data-u-target="#carousel-ee83"
-            className="u-active u-active-black u-hover-black u-shape-rectangle u-white"
-            data-u-slide-to={0}
-            style={{ width: 30, height: 3 }}
-          />
-          <li
-            data-u-target="#carousel-ee83"
-            className="u-active-black u-hover-black u-shape-rectangle u-white"
-            data-u-slide-to={1}
-            style={{ width: 30, height: 3 }}
-          />
-          <li
-            data-u-target="#carousel-ee83"
-            className="u-active-black u-hover-black u-shape-rectangle u-white"
-            data-u-slide-to={2}
-            style={{ width: 30, height: 3 }}
-          />
-        </ol>
-        <div className="u-carousel-inner" role="listbox">
-          <div className="custom-expanded u-active u-border-grey-80 u-carousel-item u-container-style u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-slide u-carousel-item-1">
-            <div className="u-container-layout u-container-layout-1">
-              <div className="custom-expanded u-align-center u-container-style u-expanded-width-md u-expanded-width-sm u-grey-80 u-group u-radius u-shape-round u-group-1">
-                <div className="u-container-layout u-container-layout-2">
-                  <h3 className="u-text u-text-2">
-                    <a
-                      className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-5 u-btn-1"
-                      data-href="https://tmfibra.com.br/"
-                    >
-                      {" "}
-                      TM FIBRA SERVICOS TELECOM&nbsp;LTDA
-                    </a>
-                  </h3>
-                  <p className="u-text u-text-3">
-                    {" "}
-                    A TM Telecom é uma empresa séria, homologada pela Anatel,
-                    comprometida com seus clientes e com a qualidade do serviço
-                    prestado. Buscamos sempre inovar para agradar.
-                  </p>
-                  <p className="u-small-text u-text u-text-variant u-text-4">
-                    Data: 10/11/2021
-                  </p>
-                </div>
-              </div>
-              <img
-                src="images/tm.jpg"
-                alt=""
-                className="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-20 u-image-1"
-                data-image-width={573}
-                data-image-height={399}
-              />
-            </div>
-          </div>
-          <div className="custom-expanded u-border-grey-80 u-carousel-item u-container-style u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-slide u-carousel-item-2">
-            <div className="u-container-layout u-container-layout-3">
-              <div className="u-align-center u-container-style u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-grey-80 u-group u-radius u-shape-round u-group-2">
-                <div className="u-container-layout u-container-layout-4">
-                  <h3 className="u-text u-text-5">
-                    <a
-                      className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2"
-                      data-href="https://conet-fibra.web.app/"
-                    >
-                      {" "}
-                      CONET FIBRA
-                    </a>
-                  </h3>
-                  <p className="u-text u-text-6">
-                    {" "}
-                    Com a CONET FIBRA, Você pode muito mais! O melhor da
-                    Internet no conforto da sua casa, simultaneamente e com quem
-                    você mais gosta.
-                    <br />
-                    Qualidade no Atendimento com foco...
-                    <br />
-                  </p>
-                  <p className="u-small-text u-text u-text-variant u-text-7">
-                    Data: 22/08/2022
-                  </p>
-                </div>
-              </div>
-              <img
-                src="images/conet.jpg"
-                alt=""
-                className="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-20 u-image-2"
-                data-image-width={733}
-                data-image-height={588}
-              />
-            </div>
-          </div>
-          <div className="custom-expanded u-border-grey-80 u-carousel-item u-container-style u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-slide u-carousel-item-3">
-            <div className="u-container-layout u-container-layout-5">
-              <div className="custom-expanded u-align-center u-container-style u-expanded-width-md u-expanded-width-sm u-grey-80 u-group u-radius u-shape-round u-group-3">
-                <div className="u-container-layout u-container-layout-6">
-                  <h3 className="u-text u-text-8">
-                    <a
-                      className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-3"
-                      data-href="https://espacoconfortodospes.blogspot.com/"
-                    >
-                      {" "}
-                      Espaço conforto dos pés
-                    </a>
-                  </h3>
-                  <p className="u-text u-text-9">
-                    {" "}
-                    Unha encravada Condição na qual o canto ou lado de uma unha
-                    cresce na carne. A condição costuma afetar o dedão do pé.
-                    Pessoas diabéticas correm maior risco de complicações.
-                  </p>
-                  <p className="u-small-text u-text u-text-variant u-text-10">
-                    Data: 10/09/2020
-                  </p>
-                </div>
-              </div>
-              <img
-                src="images/mae.jpg"
-                alt=""
-                className="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-20 u-image-3"
-                data-image-width={733}
-                data-image-height={599}
-              />
-            </div>
-          </div>
-        </div>
-        <a
-          className="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-hidden u-spacing-5 u-text-body-alt-color u-carousel-control-1"
-          href="#carousel-ee83"
-          role="button"
-          data-u-slide="prev"
-        >
-          <span aria-hidden="true">
-            <svg viewBox="0 0 477.175 477.175">
-              <path
-                d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
-            c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"
-              />
-            </svg>
-          </span>
-          <span className="sr-only">
-            <svg viewBox="0 0 477.175 477.175">
-              <path
-                d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
-            c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"
-              />
-            </svg>
-          </span>
-        </a>
-        <a
-          className="u-absolute-vcenter u-carousel-control u-carousel-control-next u-hidden u-spacing-5 u-text-body-alt-color u-carousel-control-2"
-          href="#carousel-ee83"
-          role="button"
-          data-u-slide="next"
-        >
-          <span aria-hidden="true">
-            <svg viewBox="0 0 477.175 477.175">
-              <path
-                d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
-            c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"
-              />
-            </svg>
-          </span>
-          <span className="sr-only">
-            <svg viewBox="0 0 477.175 477.175">
-              <path
-                d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
-            c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"
-              />
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div>
-  </section>
-  <section className="u-clearfix u-grey-80 u-section-4" id="carousel_06f4">
-    <div className="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-sheet-1">
-      <h2 className="u-align-left u-text u-text-custom-color-4 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1">
         {" "}
         Incentivos para programador
       </h2>
-      <p className="u-align-left u-text u-text-2">
-        <span style={{ fontSize: "1.125rem" }}>
-          Não é a linguagem de programação que define o programador, mas sim sua
-          lógica.
-        </span>
-        &nbsp;<span style={{ fontSize: "1.125rem" }}>😉</span>
-      </p>
-      <a
-        href="https://www.ev.org.br/areas-de-interesse/programacao"
-        className="u-active-grey-80 u-align-left u-border-active-grey-80 u-border-hover-black u-border-none u-btn u-button-style u-hover-black u-hover-feature u-radius u-text-active-white u-text-hover-custom-color-4 u-btn-1"
+      <p
+        className="u-align-center-xs u-custom-font u-text u-text-2"
+        data-animation-name="customAnimationIn"
+        data-animation-duration={1000}
       >
         {" "}
-        curso grátis
-      </a>
-      <div className="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-        <div className="u-layout">
-          <div className="u-layout-row">
-            <div className="u-container-align-center u-container-style u-layout-cell u-size-20 u-layout-cell-1">
-              <div className="u-container-layout u-valign-bottom u-container-layout-1">
-                <div
-                  className="u-container-align-left u-container-style u-expanded-width u-grey-80 u-group u-hover-feature u-radius u-shape-round u-group-1"
-                  data-animation-name="customAnimationIn"
-                  data-animation-duration={2000}
-                >
-                  <div className="u-container-layout u-valign-top u-container-layout-2">
-                    <span className="u-align-left u-file-icon u-icon u-icon-circle u-text-grey-80 u-white u-icon-1">
-                      <img src="images/4338295-08fc030d.png" alt="" />
-                    </span>
-                    <p className="u-align-left u-text u-text-default u-text-3">
-                      {" "}
-                      Ser desenvolvedor é uma viagem onde a próxima parada é a
-                      solução de um problema.
-                      <br />
-                      <br />
-                      <span
-                        style={{
-                          fontWeight: 700,
-                          textDecoration: "underline !important"
-                        }}
-                      >
-                        Thales Valentim
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </div>
+        Não é a linguagem de programação que define o programador, mas sim sua
+        lógica.&nbsp;😉
+      </p>
+      <div className="u-expanded-width u-list u-list-1">
+        <div className="u-repeater u-repeater-1">
+          <div
+            className="u-align-left u-container-style u-custom-item u-hover-feature u-image u-list-item u-radius u-repeater-item u-shape-round u-image-1"
+            data-animation-name="customAnimationIn"
+            data-animation-duration={1000}
+            data-image-width={905}
+            data-image-height={2031}
+          >
+            <div className="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+              <h3 className="u-custom-font u-font-montserrat u-text u-text-default u-text-3">
+                01
+              </h3>
+              <p className="u-custom-item u-text u-text-4">
+                {" "}
+                Ser desenvolvedor é uma viagem onde a próxima parada é a solução
+                de um problema.
+                <span style={{ fontWeight: 700 }}>
+                  <br />
+                  <br />
+                  Thales Valentim
+                </span>
+                <br />
+              </p>
             </div>
-            <div className="u-container-align-center u-container-style u-layout-cell u-size-20 u-layout-cell-2">
-              <div className="u-container-layout u-valign-middle u-container-layout-3">
-                <div
-                  className="u-container-align-left u-container-style u-expanded-width u-grey-80 u-group u-hover-feature u-radius u-shape-round u-group-3"
-                  data-animation-name="customAnimationIn"
-                  data-animation-duration={2000}
-                >
-                  <div className="u-container-layout u-valign-top u-container-layout-4">
-                    <span className="u-align-left u-file-icon u-icon u-icon-circle u-text-custom-color-4 u-white u-icon-2">
-                      <img src="images/4338295-08fc030d.png" alt="" />
-                    </span>
-                    <p className="u-align-left u-text u-text-default u-text-4">
-                      {" "}
-                      "A questão não é saber os códigos ou linhas de comando, é
-                      saber o que fazer com eles."
-                      <br />
-                      <br />
-                      <span
-                        style={{
-                          fontWeight: 700,
-                          textDecoration: "underline !important"
-                        }}
-                      >
-                        Sérgio Arena
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </div>
+          </div>
+          <div
+            className="u-align-left u-container-style u-custom-color-2 u-custom-item u-hover-feature u-list-item u-radius u-repeater-item u-shape-round u-list-item-2"
+            data-animation-name="customAnimationIn"
+            data-animation-duration={1000}
+          >
+            <div className="u-container-layout u-similar-container u-valign-top u-container-layout-2">
+              <h3 className="u-custom-font u-font-montserrat u-text u-text-default u-text-5">
+                02
+              </h3>
+              <p className="u-custom-item u-text u-text-6">
+                {" "}
+                "A questão não é saber os códigos ou linhas de comando, é saber
+                o que fazer com eles."
+                <br />
+                <br />
+                <span style={{ fontWeight: 700 }}>Sérgio Arena</span>
+                <br />
+              </p>
             </div>
-            <div className="u-container-align-center u-container-style u-layout-cell u-size-20 u-layout-cell-3">
-              <div className="u-container-layout u-valign-top u-container-layout-5">
-                <div
-                  className="u-container-align-left u-container-style u-expanded-width u-grey-80 u-group u-hover-feature u-radius u-shape-round u-group-3"
-                  data-animation-name="customAnimationIn"
-                  data-animation-duration={2000}
-                >
-                  <div className="u-container-layout u-valign-top u-container-layout-6">
-                    <span className="u-align-left u-file-icon u-icon u-icon-circle u-text-grey-80 u-white u-icon-3">
-                      <img src="images/4338295-08fc030d.png" alt="" />
-                    </span>
-                    <p className="u-align-left u-text u-text-default u-text-5">
-                      {" "}
-                      Uma linguagem não faz seu código ser bom, programadores
-                      bons fazem seu código ser bom.
-                      <br />
-                      <br />
-                      <span
-                        style={{
-                          fontWeight: 700,
-                          textDecoration: "underline !important"
-                        }}
-                      >
-                        Samuel Custódio
-                      </span>
-                    </p>
-                  </div>
-                </div>
-              </div>
+          </div>
+          <div
+            className="u-align-left u-container-style u-custom-item u-hover-feature u-image u-list-item u-radius u-repeater-item u-shape-round u-image-2"
+            data-animation-name="customAnimationIn"
+            data-animation-duration={1000}
+            data-image-width={905}
+            data-image-height={2031}
+          >
+            <div className="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+              <h3 className="u-custom-font u-font-montserrat u-text u-text-default u-text-7">
+                03
+              </h3>
+              <p className="u-custom-item u-text u-text-8">
+                {" "}
+                Uma linguagem não faz seu código ser bom, programadores bons
+                fazem seu código ser bom.
+                <br />
+                <br />
+                <span style={{ fontWeight: 700 }}>Samuel Custódio</span>
+                <br />
+              </p>
             </div>
           </div>
         </div>
       </div>
+      <a
+        href="https://www.ev.org.br/areas-de-interesse/programacao"
+        className="u-border-none u-btn u-button-style u-hover-custom-color-2 u-hover-feature u-palette-1-light-3 u-radius u-btn-1"
+        data-animation-name="customAnimationIn"
+        data-animation-duration={1000}
+      >
+        {" "}
+        Cursos grátes
+      </a>
+    </div>
+  </section>
+  <section
+    className="u-clearfix u-grey-80 u-lightbox u-section-4"
+    id="carousel_51fd"
+  >
+    <div className="u-clearfix u-sheet u-valign-middle-md u-sheet-1">
+      <h3
+        className="u-align-center u-custom-font u-hover-feature u-text u-text-custom-color-2 u-text-1"
+        data-animation-name="bounceIn"
+        data-animation-duration={1000}
+        data-animation-direction=""
+      >
+        {" "}
+        Biografia
+      </h3>
+      <p
+        className="u-align-center u-custom-font u-hover-feature u-text u-text-2"
+        data-animation-name="bounceIn"
+        data-animation-duration={1000}
+        data-animation-direction=""
+      >
+        Sou&nbsp;um&nbsp;designer&nbsp;e&nbsp;desenvolvedor&nbsp;&amp;&nbsp;Programo&nbsp;porque&nbsp;é&nbsp;divertido&nbsp;programar.
+        <b>
+          <span style={{ fontStyle: "italic" }}>"&nbsp;</span>Paulo​ Jorge
+          <span style={{ fontStyle: "italic" }}>"</span>
+        </b>
+      </p>
+      <div
+        className="u-align-left u-border-2 u-border-custom-color-2 u-expanded-width u-hover-feature u-left-0 u-uploaded-video u-video u-video-1"
+        data-animation-name="pulse"
+        data-animation-duration={1000}
+        data-animation-direction=""
+      >
+        <div className="embed-responsive">
+          <video
+            className="embed-responsive-item"
+            data-autoplay={1}
+            loop=""
+            muted={1}
+            autoPlay="autoplay"
+            playsInline=""
+          >
+            <source
+              src="files/65761e35a7df55b3f7006e7e_123optimize.mp4"
+              type="video/mp4"
+            />
+            <p>Your browser does not support HTML5 video.</p>
+          </video>
+        </div>
+      </div>
+      <div
+        className="custom-expanded infinite u-align-left u-black u-opacity u-opacity-15 u-preserve-proportions u-shape u-shape-circle u-shape-1"
+        data-animation-name="pulse"
+        data-animation-duration={2000}
+        data-animation-direction=""
+        data-animation-delay={1000}
+      />
+      <img
+        className="custom-expanded u-expanded-width-md u-expanded-width-sm u-hover-feature u-image u-image-contain u-image-default u-image-1"
+        src="images/240523021501red-p-1080.png"
+        alt=""
+        data-image-width={1080}
+        data-image-height={1080}
+        data-animation-name="pulse"
+        data-animation-duration={1000}
+        data-animation-direction=""
+      />
     </div>
   </section>
   <section
     className="u-clearfix u-grey-80 u-lightbox u-section-5"
-    id="carousel_51fd"
+    id="carousel_c456"
   >
     <div className="u-clearfix u-sheet u-sheet-1">
-      <div
-        className="custom-expanded u-container-style u-group u-shape-rectangle u-group-1"
-        data-animation-name="customAnimationIn"
-        data-animation-duration={1000}
-      >
-        <div className="u-container-layout u-container-layout-1">
-          <span className="u-align-left u-file-icon u-hover-feature u-icon u-icon-circle u-text-custom-color-5 u-icon-1">
-            <img src="images/7837401-cded9e89.png" alt="" />
-          </span>
-          <span
-            className="u-border-3 u-border-custom-color-4 u-file-icon u-hover-feature u-icon u-icon-circle u-opacity u-opacity-0 u-text-custom-color-4 u-icon-2"
-            data-href="https://t.me/Pjxsantosbot"
-          >
-            <img src="images/2111813-28eda188.png" alt="" />
-          </span>
-        </div>
-      </div>
       <img
         className="u-image u-image-default u-preserve-proportions u-image-1"
         src="images/_4194b80d-3e52-4d88-8613-d004f2b98db5.jpeg-PhotoRoom.png-PhotoRoom.png"
@@ -674,11 +525,11 @@ export default function Home() {
         data-animation-duration={1000}
       />
       <div
-        className="u-container-style u-expanded-width-xs u-group u-shape-rectangle u-group-2"
+        className="custom-expanded u-container-style u-group u-shape-rectangle u-group-1"
         data-animation-name="customAnimationIn"
         data-animation-duration={1000}
       >
-        <div className="u-container-layout u-container-layout-2">
+        <div className="u-container-layout u-container-layout-1">
           <div className="u-shape u-shape-svg u-text-white u-shape-1">
             <svg
               className="u-svg-link"
@@ -694,7 +545,7 @@ export default function Home() {
               x="0px"
               y="0px"
               id="svg-c09c"
-              style={{ backgroundImage: "new 0 0 160 130" }}
+              style={{ enableBackground: "new 0 0 160 130" }}
             >
               <path
                 d="M148.3,0H11.7C5.3,0,0,5.2,0,11.5v79.8c0,6.4,5.3,11.5,11.7,11.5h56L67.6,130l24.2-27.2h56.5c6.5,0,11.7-5.2,11.7-11.5V11.5
@@ -702,8 +553,8 @@ export default function Home() {
               />
             </svg>
           </div>
-          <div className="u-container-style u-group u-shape-rectangle u-group-3">
-            <div className="u-container-layout u-container-layout-3">
+          <div className="u-container-style u-group u-shape-rectangle u-group-2">
+            <div className="u-container-layout u-container-layout-2">
               <p className="u-text u-text-black u-text-default u-text-1">
                 {" "}
                 Olá, Como vai? Meu nome é{" "}
@@ -716,13 +567,160 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <div className="u-container-style u-group u-shape-rectangle u-group-3">
+        <div className="u-container-layout u-container-layout-3">
+          <span
+            className="u-border-2 u-border-custom-color-5 u-file-icon u-hover-feature u-icon u-icon-circle u-text-custom-color-5 u-icon-1"
+            data-animation-name="customAnimationIn"
+            data-animation-duration={1000}
+          >
+            <img src="images/7837401-cded9e89.png" alt="" />
+          </span>
+          <a href="https://t.me/Pjxsantos">
+          <span className="u-border-2 u-border-custom-color-2 u-file-icon u-hover-feature u-icon u-icon-circle u-opacity u-opacity-0 u-text-custom-color-2 u-icon-2">
+            <img src="images/2111813-78859029.png" alt="" />
+          </span>
+          </a>
+        </div>
+      </div>
     </div>
+  </section>
+  <section
+    className="u-align-center u-black u-clearfix u-section-6"
+    id="carousel_8ad9"
+  >
+    <h3
+      className="u-align-center u-custom-font u-hover-feature u-text u-text-default u-text-1"
+      data-animation-name="customAnimationIn"
+      data-animation-duration={1000}
+      data-animation-direction=""
+    >
+      Meus projetos
+    </h3>
+    <div className="u-expanded-width u-layout-horizontal u-list u-list-1">
+      <div className="u-repeater u-repeater-1">
+        <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
+          <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-1">
+            <img
+              alt=""
+              className="u-hover-feature u-image u-image-contain u-image-default u-image-1"
+              data-image-width={1920}
+              data-image-height={676}
+              src="images/LOGObranca.png"
+              data-href="https://tmfibra.com.br/"
+            />
+          </div>
+        </div>
+        <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
+          <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-2">
+            <img
+              alt=""
+              className="u-hover-feature u-image u-image-contain u-image-default u-image-2"
+              data-image-width={462}
+              data-image-height={247}
+              src="images/CONET41.png"
+              data-href="https://conet-fibra.web.app/"
+            />
+          </div>
+        </div>
+        <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
+          <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-3">
+            <img
+              alt=""
+              className="u-hover-feature u-image u-image-contain u-image-default u-image-3"
+              data-image-width={540}
+              data-image-height={540}
+              src="images/unnamed.png"
+              data-href="https://espacoconfortodospes.blogspot.com/"
+            />
+          </div>
+        </div>
+        <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
+          <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-4">
+            <img
+              alt=""
+              className="u-hover-feature u-image u-image-contain u-image-default u-image-4"
+              data-image-width={376}
+              data-image-height={245}
+              src="images/1703183666890logo.png"
+              data-href="https://pjxsantos.github.io/"
+            />
+          </div>
+        </div>
+        <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
+          <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-5">
+            <img
+              alt=""
+              className="u-hover-feature u-image u-image-contain u-image-default u-image-5"
+              data-image-width={720}
+              data-image-height={720}
+              src="images/1704146100917logo.png"
+              data-href="https://marya-xavier.vercel.app/"
+            />
+          </div>
+        </div>
+      </div>
+      <a
+        className="u-absolute-vcenter u-border-2 u-border-grey-90 u-custom-color-2 u-gallery-nav u-gallery-nav-prev u-icon-rounded u-opacity u-opacity-70 u-radius u-spacing-10 u-gallery-nav-1"
+        href="#"
+        role="button"
+      >
+        <span aria-hidden="true">
+          <svg viewBox="0 0 451.847 451.847">
+            <path
+              d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+          c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+          c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"
+            />
+          </svg>
+        </span>
+        <span className="sr-only">
+          <svg viewBox="0 0 451.847 451.847">
+            <path
+              d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+          c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+          c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"
+            />
+          </svg>
+        </span>
+      </a>
+      <a
+        className="u-absolute-vcenter u-border-2 u-border-grey-90 u-custom-color-2 u-gallery-nav u-gallery-nav-next u-icon-rounded u-opacity u-opacity-70 u-radius u-spacing-10 u-gallery-nav-2"
+        href="#"
+        role="button"
+      >
+        <span aria-hidden="true">
+          <svg viewBox="0 0 451.846 451.847">
+            <path
+              d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+          L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+          c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"
+            />
+          </svg>
+        </span>
+        <span className="sr-only">
+          <svg viewBox="0 0 451.846 451.847">
+            <path
+              d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+          L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+          c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"
+            />
+          </svg>
+        </span>
+      </a>
+    </div>
+    <div
+      className="u-align-center u-border-1 u-border-custom-color-2 u-line u-line-horizontal u-line-1"
+      data-animation-name="bounceIn"
+      data-animation-duration={1000}
+      data-animation-direction="Left"
+    />
   </section>
   <style
     className="u-overlap-style"
     dangerouslySetInnerHTML={{
       __html:
-        ".u-overlap:not(.u-sticky-scroll) .u-header {\n      transparency: 25 !important\n      }\n    "
+        ".u-overlap:not(.u-sticky-scroll) .u-header {\n      transparency: 5 !important; background-color: #fa6a00 !important\n      }\n    "
     }}
   />
   <footer
@@ -741,8 +739,8 @@ export default function Home() {
           target="_blank"
           href="https://github.com/Pjxsantos"
         >
-          <span className="u-file-icon u-icon u-social-facebook u-social-icon u-text-custom-color-4 u-icon-1">
-            <img src="images/2111432-af769cc8.png" alt="" />
+          <span className="u-file-icon u-icon u-social-facebook u-social-icon u-text-custom-color-2 u-icon-1">
+            <img src="images/2111432-434c94f3.png" alt="" />
           </span>
         </a>
         <a
@@ -751,8 +749,8 @@ export default function Home() {
           target="_blank"
           href="mailto:pjxsantos.portfolio@gmail.com"
         >
-          <span className="u-file-icon u-icon u-social-icon u-social-twitter u-text-custom-color-4 u-icon-2">
-            <img src="images/6244710-33350b01.png" alt="" />
+          <span className="u-file-icon u-icon u-social-icon u-social-twitter u-text-custom-color-2 u-icon-2">
+            <img src="images/6244710-b83756d9.png" alt="" />
           </span>
         </a>
         <a
@@ -761,8 +759,8 @@ export default function Home() {
           target="_blank"
           href="https://www.linkedin.com/in/pjxsantos/"
         >
-          <span className="u-file-icon u-icon u-social-icon u-social-instagram u-text-custom-color-4 u-icon-3">
-            <img src="images/1384014-15ceede1.png" alt="" />
+          <span className="u-file-icon u-icon u-social-icon u-social-instagram u-text-custom-color-2 u-icon-3">
+            <img src="images/1384014-28b140e5.png" alt="" />
           </span>
         </a>
       </div>
@@ -782,10 +780,10 @@ export default function Home() {
         padding: 7,
         boxShadow: "0px 0px 8px 0px rgba(0,0,0,0.7)"
       }}
-      className="u-back-to-top u-file-icon u-grey-80 u-icon u-icon-circle u-opacity u-opacity-85 u-text-custom-color-4"
+      className="u-back-to-top u-file-icon u-grey-80 u-icon u-icon-circle u-opacity u-opacity-85 u-text-custom-color-2"
       data-href="#"
     >
-      <img src="images/412bb62a.png" alt="" />
+      <img src="images/7237c477.png" alt="" />
     </span>
   </a>
   </main>
