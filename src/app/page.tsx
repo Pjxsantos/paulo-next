@@ -36,7 +36,7 @@ export default function Home() {
   <meta property="og:title" content="Portfólio Paulo Jorge" />
   <meta property="og:type" content="website" />
   <link rel="canonical" href="/" />
-<main data-home-page="" data-home-page-title="Portfólio Paulo Jorge" data-home-page-title="Página Inicial" data-path-to-root="./" data-include-products="false" className="u-body u-overlap u-overlap-transparent u-xl-mode" data-lang="pt">
+<main data-home-page="" data-home-page-title="Portfólio Paulo Jorge" data-path-to-root="./" data-include-products="false" className="u-body u-overlap u-overlap-transparent u-xl-mode" data-lang="pt">
 <header
     className="u-box-shadow u-clearfix u-header u-sticky u-sticky-8faa u-header"
     id="sec-13ef"
