@@ -19,7 +19,7 @@ export default function Home() {
       />
       <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
 
-      <meta content="" property="og:image" />
+      <meta content="https://portfolio-pjxsantos.vercel.app/images/app.jpg" property="og:image" />
       <meta name="theme-color" content="#333333" />
       <meta property="og:title" content="Portfólio Paulo Jorge" />
       <meta property="og:type" content="website" />
