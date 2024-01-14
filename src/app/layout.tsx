@@ -21,6 +21,8 @@ export default function RootLayout({
       <body className={inter.className}>{children}</body>
       <Script src="js/jquery-1.9.1.min.js"  />
       <Script src="js/script.js"  />    
+      <Script src="js/relogio.js"  />
+      <Script src="js/data.js"  />       
     </html>
     
   )

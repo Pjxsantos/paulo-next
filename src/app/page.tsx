@@ -141,11 +141,11 @@ export default function Home() {
           <div className="u-black u-menu-overlay u-opacity u-opacity-70" />
         </div>
       </nav>
-      <p className="u-small-text u-text u-text-black u-text-default u-text-variant u-text-2">
+      <p id="relogio" className="u-small-text u-text u-text-black u-text-default u-text-variant u-text-2">
         BRASIL 13:24:30
       </p>
-      <p className="u-small-text u-text u-text-black u-text-default u-text-variant u-text-3">
-        2024
+      <p id="data" className="u-small-text u-text u-text-black u-text-default u-text-variant u-text-3">
+        2023
       </p>
     </div>
     <style
