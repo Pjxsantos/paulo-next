@@ -297,42 +297,42 @@ export default function Home() {
                       >
                         <a
                           className="u-social-url"
-                          title="facebook"
+                          title="html"
                           target="_blank"
-                          href="https://facebook.com/name"
+                          href="https://github.com/topics/html"
                         >
-                          <span className="u-file-icon u-icon u-social-facebook u-social-icon u-text-custom-color-2 u-icon-1">
+                          <span className="u-file-icon u-icon u-social-html u-social-icon u-text-custom-color-2 u-icon-1">
                             <img src="images/1051328-f1b66de2.png" alt="" />
                           </span>
                         </a>
                         <a
                           className="u-social-url"
-                          title="twitter"
+                          title="css"
                           target="_blank"
-                          href="https://twitter.com/name"
+                          href="https://github.com/topics/css"
                         >
-                          <span className="u-file-icon u-icon u-social-icon u-social-twitter u-text-custom-color-2 u-icon-2">
+                          <span className="u-file-icon u-icon u-social-icon u-social-css u-text-custom-color-2 u-icon-2">
                             <img src="images/732007-b315c01f.png" alt="" />
                           </span>
                         </a>
                         <a
                           className="u-social-url"
-                          title="instagram"
+                          title="Javascript"
                           target="_blank"
-                          href="https://instagram.com/name"
+                          href="https://github.com/topics/javascript"
                         >
-                          <span className="u-file-icon u-icon u-social-icon u-social-instagram u-text-custom-color-2 u-icon-3">
+                          <span className="u-file-icon u-icon u-social-icon u-social-Javascript u-text-custom-color-2 u-icon-3">
                             <img src="images/721671-af28a746.png" alt="" />
                           </span>
                         </a>
                         <a
                           className="u-social-url"
                           target="_blank"
-                          data-type="Github"
-                          title="Github"
-                          href=""
+                          data-type="React"
+                          title="React"
+                          href="https://github.com/topics/react"
                         >
-                          <span className="u-file-icon u-icon u-social-github u-social-icon u-text-custom-color-2 u-icon-4">
+                          <span className="u-file-icon u-icon u-social-react u-social-icon u-text-custom-color-2 u-icon-4">
                             <img src="images/1126012-84d82a33.png" alt="" />
                           </span>
                         </a>
