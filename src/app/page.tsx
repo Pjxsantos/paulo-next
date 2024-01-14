@@ -52,7 +52,7 @@ export default function Home() {
           }}
         >
           <a
-            className="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-decoration u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-file-icon u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-file-icon-1"
+            className="button u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-decoration u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-file-icon u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-file-icon-1"
             href="#"
           >
             <img src="images/5259008.png" alt="" />
@@ -62,7 +62,7 @@ export default function Home() {
           <ul className="u-nav u-spacing-30 u-unstyled u-nav-1">
             <li className="u-nav-item">
               <a
-                className="u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
+                className="button u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
                 href="Página-Inicial.html#sec-c00f"
                 style={{ padding: "10px 0px" }}
               >
@@ -71,7 +71,7 @@ export default function Home() {
             </li>
             <li className="u-nav-item">
               <a
-                className="u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
+                className="button u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
                 href="Página-Inicial.html#carousel_c359"
                 style={{ padding: "10px 0px" }}
               >
@@ -80,7 +80,7 @@ export default function Home() {
             </li>
             <li className="u-nav-item">
               <a
-                className="u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
+                className="button u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
                 href="Página-Inicial.html#carousel_a0bf"
                 style={{ padding: "10px 0px" }}
               >
@@ -89,7 +89,7 @@ export default function Home() {
             </li>
             <li className="u-nav-item">
               <a
-                className="u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
+                className="button u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
                 href="Página-Inicial.html#carousel_c456"
                 style={{ padding: "10px 0px" }}
               >
@@ -105,7 +105,7 @@ export default function Home() {
               <ul className="u-align-center u-nav u-popupmenu-items u-spacing-12 u-text-active-custom-color-2 u-text-hover-custom-color-2 u-unstyled u-nav-2">
                 <li className="u-nav-item">
                   <a
-                    className="u-button-style u-nav-link"
+                    className="button u-button-style u-nav-link"
                     href="Página-Inicial.html#sec-c00f"
                   >
                     Inicio
@@ -113,7 +113,7 @@ export default function Home() {
                 </li>
                 <li className="u-nav-item">
                   <a
-                    className="u-button-style u-nav-link"
+                    className="button u-button-style u-nav-link"
                     href="Página-Inicial.html#carousel_c359"
                   >
                     Sobre
@@ -121,7 +121,7 @@ export default function Home() {
                 </li>
                 <li className="u-nav-item">
                   <a
-                    className="u-button-style u-nav-link"
+                    className="button u-button-style u-nav-link"
                     href="Página-Inicial.html#carousel_a0bf"
                   >
                     Incentivos para programador
@@ -129,7 +129,7 @@ export default function Home() {
                 </li>
                 <li className="u-nav-item">
                   <a
-                    className="u-button-style u-nav-link"
+                    className="button u-button-style u-nav-link"
                     href="Página-Inicial.html#carousel_c456"
                   >
                     Contato
@@ -424,7 +424,7 @@ export default function Home() {
       </div>
       <a
         href="https://www.ev.org.br/areas-de-interesse/programacao"
-        className="u-border-none u-btn u-button-style u-hover-custom-color-2 u-hover-feature u-palette-1-light-3 u-radius u-btn-1"
+        className="button u-border-none u-btn u-button-style u-hover-custom-color-2 u-hover-feature u-palette-1-light-3 u-radius u-btn-1"
         data-animation-name="customAnimationIn"
         data-animation-duration={1000}
       >
@@ -453,9 +453,9 @@ export default function Home() {
         data-animation-duration={1000}
         data-animation-direction=""
       >
-        Sou&nbsp;um&nbsp;designer&nbsp;e&nbsp;desenvolvedor&nbsp;&amp;&nbsp;Programo&nbsp;porque&nbsp;é&nbsp;divertido&nbsp;programar.
+        Sou&nbsp;um&nbsp;designer&nbsp;&amp;&nbsp;{'\n'}desenvolvedor,&nbsp;Programo&nbsp;{'\n'}porque&nbsp;é&nbsp;divertido&nbsp;programar.
         <b>
-          <span style={{ fontStyle: "italic" }}>"&nbsp;</span>Paulo​ Jorge
+          <span style={{ fontStyle: "italic" }}>{'\n'}"&nbsp;</span>Paulo​ Jorge
           <span style={{ fontStyle: "italic" }}>"</span>
         </b>
       </p>
@@ -560,7 +560,7 @@ export default function Home() {
       <div className="u-container-style u-group u-shape-rectangle u-group-3">
         <div className="u-container-layout u-container-layout-3">
           <span
-            className="u-border-2 u-border-custom-color-5 u-file-icon u-hover-feature u-icon u-icon-circle u-text-custom-color-5 u-icon-1"
+            className="button u-border-2 u-border-custom-color-5 u-file-icon u-hover-feature u-icon u-icon-circle u-text-custom-color-5 u-icon-1"
             data-animation-name="customAnimationIn"
             data-animation-duration={1000}
           >
@@ -756,7 +756,7 @@ export default function Home() {
       </div>
     </div>
   </footer>
-  <a href="#">
+  <a className='' href="#">
     <span
       style={{
         height: 64,

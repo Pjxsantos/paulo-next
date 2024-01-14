@@ -22,7 +22,8 @@ export default function RootLayout({
       <Script src="js/jquery-1.9.1.min.js"  />
       <Script src="js/script.js"  />    
       <Script src="js/relogio.js"  />
-      <Script src="js/data.js"  />       
+      <Script src="js/data.js"  />  
+      <Script src="js/audio.js"  /> 
     </html>
     
   )
