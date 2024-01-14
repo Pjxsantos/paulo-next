@@ -13,12 +13,16 @@ export default function Home() {
     href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i"
   />
   <link
-
+    id="u-page-google-font"
     rel="stylesheet"
     href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Allerta+Stencil:400|Aclonica:400"
   />
   <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
-
+  
+    <meta
+    content=""
+    property="og:image"
+  />
   <meta name="theme-color" content="#333333" />
   <meta property="og:title" content="Portfólio Paulo Jorge" />
   <meta property="og:type" content="website" />
@@ -465,6 +469,10 @@ export default function Home() {
           <video
             className="embed-responsive-item"
             data-autoplay={1}
+            loop=""
+            muted={1}
+            autoPlay="autoplay"
+            playsInline=""
           >
             <source
               src="files/65761e35a7df55b3f7006e7e_123optimize.mp4"
@@ -528,7 +536,7 @@ export default function Home() {
               x="0px"
               y="0px"
               id="svg-c09c"
-              style={{ backgroundImage: "new 0 0 160 130" }}
+              style={{ enableBackground: "new 0 0 160 130" }}
             >
               <path
                 d="M148.3,0H11.7C5.3,0,0,5.2,0,11.5v79.8c0,6.4,5.3,11.5,11.7,11.5h56L67.6,130l24.2-27.2h56.5c6.5,0,11.7-5.2,11.7-11.5V11.5
