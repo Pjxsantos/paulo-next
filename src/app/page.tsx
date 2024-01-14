@@ -18,10 +18,7 @@ export default function Home() {
     href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Allerta+Stencil:400|Aclonica:400"
   />
   <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
-  <meta
-    content="https://portfolio-pjxsantos.vercel.app/images/android-chrome-512x512.png"
-    property="og:image"
-  />
+
   <meta name="theme-color" content="#333333" />
   <meta property="og:title" content="Portfólio Paulo Jorge" />
   <meta property="og:type" content="website" />
