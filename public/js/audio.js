@@ -20,7 +20,7 @@
          isAudioPlayed = true;
        });
      });
-     var audio = new Audio("../audio/ambient-wave.mp3");
+     var audio = new Audio("");
       
       // manipulador de eventos 'terminado' para repetição
       audio.addEventListener('ended', function() {
