@@ -13,22 +13,12 @@ export default function Home() {
     href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i"
   />
   <link
-    id="u-page-google-font"
+
     rel="stylesheet"
     href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Allerta+Stencil:400|Aclonica:400"
   />
   <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
-  <link
-    id="u-theme-google-font"
-    rel="stylesheet"
-    href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i"
-  />
-  <link
-    id="u-page-google-font"
-    rel="stylesheet"
-    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i"
-  />
-    <meta
+  <meta
     content="https://portfolio-pjxsantos.vercel.app/images/android-chrome-512x512.png"
     property="og:image"
   />
