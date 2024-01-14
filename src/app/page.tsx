@@ -469,10 +469,10 @@ export default function Home() {
           <video
             className="embed-responsive-item"
             data-autoplay={1}
-            loop=""
-            muted={1}
-            autoPlay="autoplay"
-            playsInline=""
+            autoPlay={true}
+            muted={true}
+            loop={true}
+            playsInline={true}
           >
             <source
               src="files/65761e35a7df55b3f7006e7e_123optimize.mp4"
@@ -536,7 +536,7 @@ export default function Home() {
               x="0px"
               y="0px"
               id="svg-c09c"
-              style={{ enableBackground: "new 0 0 160 130" }}
+              
             >
               <path
                 d="M148.3,0H11.7C5.3,0,0,5.2,0,11.5v79.8c0,6.4,5.3,11.5,11.7,11.5h56L67.6,130l24.2-27.2h56.5c6.5,0,11.7-5.2,11.7-11.5V11.5
