@@ -8,12 +8,12 @@ export default function Home() {
       <link rel="stylesheet" href="css/style.css" media="screen" />
       <link rel="stylesheet" href="css/pj.css" media="screen" />
       <link
-        id="u-theme-google-font"
+        id="pj-theme-google-font"
         rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i"
       />
       <link
-        id="u-page-google-font"
+        id="pj-page-google-font"
         rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Allerta+Stencil:400|Aclonica:400"
       />
@@ -29,24 +29,24 @@ export default function Home() {
         data-home-page-title="Portfólio Paulo Jorge"
         data-path-to-root="./"
         data-include-products="false"
-        className="u-body u-overlap u-overlap-transparent u-xl-mode"
+        className="pj-body pj-overlap pj-overlap-transparent pj-xl-mode"
         data-lang="pt"
       >
         <header
-          className="u-box-shadow u-clearfix u-header u-sticky u-sticky-8faa u-header"
+          className="pj-box-shadow pj-clearfix pj-header pj-sticky pj-sticky-8faa pj-header"
           id="sec-13ef"
         >
-          <div className="u-clearfix u-sheet u-sheet-1">
-            <h1 className="u-text u-text-body-color u-text-default u-text-1">
+          <div className="pj-clearfix pj-sheet pj-sheet-1">
+            <h1 className="pj-text pj-text-body-color pj-text-default pj-text-1">
               &lt;/&gt;
             </h1>
             <nav
-              className="u-menu u-menu-hamburger u-offcanvas u-menu-1"
-              data-submenu-level="on-click"
+              className="pj-menu pj-menpj-hamburger pj-offcanvas pj-menpj-1"
+              data-submenpj-level="on-click"
               data-responsive-from="XL"
             >
               <div
-                className="menu-collapse"
+                className="menpj-collapse"
                 style={{
                   fontSize: "1rem",
                   letterSpacing: 0,
@@ -56,44 +56,44 @@ export default function Home() {
                 }}
               >
                 <a
-                  className="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-decoration u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-file-icon u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-file-icon-1"
+                  className="pj-button-style pj-custom-active-border-color pj-custom-active-color pj-custom-border pj-custom-border-color pj-custom-borders pj-custom-hover-border-color pj-custom-hover-color pj-custom-left-right-menpj-spacing pj-custom-padding-bottom pj-custom-text-active-color pj-custom-text-color pj-custom-text-decoration pj-custom-text-hover-color pj-custom-top-bottom-menpj-spacing pj-file-icon pj-nav-link pj-text-active-palette-1-base pj-text-hover-palette-2-base pj-file-icon-1"
                   href="#"
                 >
                   <img src="images/5259008.png" alt="" />
                 </a>
               </div>
-              <div className="u-custom-menu u-nav-container">
-                <ul className="u-nav u-spacing-30 u-unstyled u-nav-1">
-                  <li className="u-nav-item">
+              <div className="pj-custom-menu pj-nav-container">
+                <ul className="pj-nav pj-spacing-30 pj-unstyled pj-nav-1">
+                  <li className="pj-nav-item">
                     <a
-                      className="button u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
+                      className="button pj-border-2 pj-border-active-custom-color-4 pj-border-black pj-border-hover-custom-color-4 pj-border-no-left pj-border-no-right pj-border-no-top pj-button-style pj-nav-link pj-text-active-white pj-text-grey-90 pj-text-hover-white"
                       href="#sec-c00f"
                       style={{ padding: "10px 0px" }}
                     >
                       Inicio
                     </a>
                   </li>
-                  <li className="u-nav-item">
+                  <li className="pj-nav-item">
                     <a
-                      className="button u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
+                      className="button pj-border-2 pj-border-active-custom-color-4 pj-border-black pj-border-hover-custom-color-4 pj-border-no-left pj-border-no-right pj-border-no-top pj-button-style pj-nav-link pj-text-active-white pj-text-grey-90 pj-text-hover-white"
                       href="#carousel_c359"
                       style={{ padding: "10px 0px" }}
                     >
                       Sobre
                     </a>
                   </li>
-                  <li className="u-nav-item">
+                  <li className="pj-nav-item">
                     <a
-                      className="button u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
+                      className="button pj-border-2 pj-border-active-custom-color-4 pj-border-black pj-border-hover-custom-color-4 pj-border-no-left pj-border-no-right pj-border-no-top pj-button-style pj-nav-link pj-text-active-white pj-text-grey-90 pj-text-hover-white"
                       href="#carousel_a0bf"
                       style={{ padding: "10px 0px" }}
                     >
                       Incentivos para programador
                     </a>
                   </li>
-                  <li className="u-nav-item">
+                  <li className="pj-nav-item">
                     <a
-                      className="button u-border-2 u-border-active-custom-color-4 u-border-black u-border-hover-custom-color-4 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white"
+                      className="button pj-border-2 pj-border-active-custom-color-4 pj-border-black pj-border-hover-custom-color-4 pj-border-no-left pj-border-no-right pj-border-no-top pj-button-style pj-nav-link pj-text-active-white pj-text-grey-90 pj-text-hover-white"
                       href="#carousel_c456"
                       style={{ padding: "10px 0px" }}
                     >
@@ -102,38 +102,38 @@ export default function Home() {
                   </li>
                 </ul>
               </div>
-              <div className="u-custom-menu u-nav-container-collapse">
-                <div className="u-black u-border-20 u-border-white u-container-style u-inner-container-layout u-opacity u-opacity-90 u-sidenav">
-                  <div className="u-inner-container-layout u-sidenav-overflow">
-                    <div className="u-menu-close" />
-                    <ul className="u-align-center u-nav u-popupmenu-items u-spacing-12 u-text-active-custom-color-2 u-text-hover-custom-color-2 u-unstyled u-nav-2">
-                      <li className="u-nav-item">
+              <div className="pj-custom-menu pj-nav-container-collapse">
+                <div className="pj-black pj-border-20 pj-border-white pj-container-style pj-inner-container-layout pj-opacity pj-opacity-90 pj-sidenav">
+                  <div className="pj-inner-container-layout pj-sidenav-overflow">
+                    <div className="pj-menpj-close" />
+                    <ul className="pj-align-center pj-nav pj-popupmenpj-items pj-spacing-12 pj-text-active-custom-color-2 pj-text-hover-custom-color-2 pj-unstyled pj-nav-2">
+                      <li className="pj-nav-item">
                         <a
-                          className="button u-button-style u-nav-link"
+                          className="button pj-button-style pj-nav-link"
                           href="#sec-c00f"
                         >
                           Inicio
                         </a>
                       </li>
-                      <li className="u-nav-item">
+                      <li className="pj-nav-item">
                         <a
-                          className="button u-button-style u-nav-link"
+                          className="button pj-button-style pj-nav-link"
                           href="#carousel_c359"
                         >
                           Sobre
                         </a>
                       </li>
-                      <li className="u-nav-item">
+                      <li className="pj-nav-item">
                         <a
-                          className="button u-button-style u-nav-link"
+                          className="button pj-button-style pj-nav-link"
                           href="#carousel_a0bf"
                         >
                           Incentivos para programador
                         </a>
                       </li>
-                      <li className="u-nav-item">
+                      <li className="pj-nav-item">
                         <a
-                          className="button u-button-style u-nav-link"
+                          className="button pj-button-style pj-nav-link"
                           href="#carousel_c456"
                         >
                           Contato
@@ -142,37 +142,37 @@ export default function Home() {
                     </ul>
                   </div>
                 </div>
-                <div className="u-black u-menu-overlay u-opacity u-opacity-70" />
+                <div className="pj-black pj-menpj-overlay pj-opacity pj-opacity-70" />
               </div>
             </nav>
             <p
               id="relogio"
-              className="u-small-text u-text u-text-black u-text-default u-text-variant u-text-2"
+              className="pj-small-text pj-text pj-text-black pj-text-default pj-text-variant pj-text-2"
             >
               BRASIL 13:24:30
             </p>
             <p
               id="data"
-              className="u-small-text u-text u-text-black u-text-default u-text-variant u-text-3"
+              className="pj-small-text pj-text pj-text-black pj-text-default pj-text-variant pj-text-3"
             >
               2023
             </p>
           </div>
           <style
-            className="u-sticky-style"
+            className="pj-sticky-style"
             data-style-id="8faa"
             dangerouslySetInnerHTML={{
               __html:
-                ".u-sticky-fixed.u-sticky-8faa, .u-body.u-sticky-fixed .u-sticky-8faa {\n        box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important\n        }.u-sticky-fixed.u-sticky-8faa:before, .u-body.u-sticky-fixed .u-sticky-8faa:before {\n        borders: top right bottom left !important\n        }\n      ",
+                ".pj-sticky-fixed.pj-sticky-8faa, .pj-body.pj-sticky-fixed .pj-sticky-8faa {\n        box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4) !important\n        }.pj-sticky-fixed.pj-sticky-8faa:before, .pj-body.pj-sticky-fixed .pj-sticky-8faa:before {\n        borders: top right bottom left !important\n        }\n      ",
             }}
           />
         </header>
         <section
-          className="u-clearfix u-gradient u-uploaded-video u-valign-top-lg u-valign-top-sm u-valign-top-xl u-section-1"
+          className="pj-clearfix pj-gradient pj-uploaded-video pj-valign-top-lg pj-valign-top-sm pj-valign-top-xl pj-section-1"
           id="sec-c00f"
         >
           <img
-            className="custom-expanded infinite u-expanded-height-sm u-image u-image-default u-image-1"
+            className="custom-expanded infinite pj-expanded-height-sm pj-image pj-image-default pj-image-1"
             src="images/65774432e96eb355932661b3_1left.svg"
             alt=""
             data-image-width={973}
@@ -182,10 +182,10 @@ export default function Home() {
             data-animation-direction=""
             data-animation-delay={2000}
           />
-          <div className="u-container-style u-group u-shape-rectangle u-group-1">
-            <div className="u-container-layout u-container-layout-1">
+          <div className="pj-container-style pj-group pj-shape-rectangle pj-group-1">
+            <div className="pj-container-layout pj-container-layout-1">
               <h2
-                className="u-align-left u-custom-font u-text u-text-custom-color-2 u-text-default u-text-1"
+                className="pj-align-left pj-custom-font pj-text pj-text-custom-color-2 pj-text-default pj-text-1"
                 data-animation-name="customAnimationIn"
                 data-animation-duration={1000}
               >
@@ -193,17 +193,17 @@ export default function Home() {
                 DESIGN DIGITAL
               </h2>
               <h1
-                className="u-align-left u-custom-font u-text u-text-white u-text-2"
+                className="pj-align-left pj-custom-font pj-text pj-text-white pj-text-2"
                 data-animation-name="customAnimationIn"
                 data-animation-duration={1000}
               >
                 {" "}
                 Produtos digitais que estão mudando este mundo
               </h1>
-              <div className="u-container-align-left-lg u-container-align-left-md u-container-align-left-sm u-container-align-left-xl u-container-style u-group u-shape-rectangle u-group-2">
-                <div className="u-container-layout u-container-layout-2">
+              <div className="pj-container-align-left-lg pj-container-align-left-md pj-container-align-left-sm pj-container-align-left-xl pj-container-style pj-group pj-shape-rectangle pj-group-2">
+                <div className="pj-container-layout pj-container-layout-2">
                   <span
-                    className="u-align-left u-border-2 u-border-custom-color-2 u-file-icon u-hover-feature u-icon u-icon-rounded u-radius u-icon-1"
+                    className="pj-align-left pj-border-2 pj-border-custom-color-2 pj-file-icon pj-hover-feature pj-icon pj-icon-rounded pj-radius pj-icon-1"
                     data-animation-name="customAnimationIn"
                     data-animation-duration={1000}
                     data-href="https://www.linkedin.com/in/pjxsantos/"
@@ -211,7 +211,7 @@ export default function Home() {
                     <img src="images/icons8-linkedin-94.png" alt="" />
                   </span>
                   <span
-                    className="u-align-left u-border-2 u-border-custom-color-2 u-file-icon u-hover-feature u-icon u-icon-circle u-icon-2"
+                    className="pj-align-left pj-border-2 pj-border-custom-color-2 pj-file-icon pj-hover-feature pj-icon pj-icon-circle pj-icon-2"
                     data-animation-name="customAnimationIn"
                     data-animation-duration={1000}
                     data-href="https://github.com/Pjxsantos"
@@ -221,7 +221,7 @@ export default function Home() {
                 </div>
               </div>
               <p
-                className="u-align-left u-text u-text-body-alt-color u-text-3"
+                className="pj-align-left pj-text pj-text-body-alt-color pj-text-3"
                 data-animation-name="customAnimationIn"
                 data-animation-duration={1000}
               >
@@ -230,7 +230,7 @@ export default function Home() {
               </p>
               <a
                 href="mailto:pjxsantos.portfolio@gmail.com"
-                className="u-active-none u-align-left u-border-2 u-border-hover-grey-75 u-border-no-left u-border-no-right u-border-no-top u-border-white u-btn u-button-style u-hover-none u-none u-btn-1"
+                className="pj-active-none pj-align-left pj-border-2 pj-border-hover-grey-75 pj-border-no-left pj-border-no-right pj-border-no-top pj-border-white pj-btn pj-button-style pj-hover-none pj-none pj-btn-1"
                 data-animation-name="customAnimationIn"
                 data-animation-duration={1000}
               >
@@ -240,23 +240,23 @@ export default function Home() {
           </div>
         </section>
         <section
-          className="u-align-center u-clearfix u-grey-80 u-section-2"
+          className="pj-align-center pj-clearfix pj-grey-80 pj-section-2"
           id="carousel_c359"
         >
-          <div className="u-clearfix u-sheet u-valign-middle-lg u-sheet-1">
-            <div className="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-              <div className="u-gutter-0 u-layout">
-                <div className="u-layout-row">
+          <div className="pj-clearfix pj-sheet pj-valign-middle-lg pj-sheet-1">
+            <div className="data-layout-selected pj-clearfix pj-expanded-width pj-layout-wrap pj-layout-wrap-1">
+              <div className="pj-gutter-0 pj-layout">
+                <div className="pj-layout-row">
                   <div
-                    className="u-container-style u-image u-image-round u-layout-cell u-radius u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-image-1"
+                    className="pj-container-style pj-image pj-image-round pj-layout-cell pj-radius pj-size-30-lg pj-size-30-xl pj-size-60-md pj-size-60-sm pj-size-60-xs pj-image-1"
                     data-image-width={905}
                     data-image-height={2031}
                     data-animation-name="customAnimationIn"
                     data-animation-duration={1000}
                   >
-                    <div className="u-container-layout u-valign-middle-lg u-valign-middle-xl u-container-layout-1">
+                    <div className="pj-container-layout pj-valign-middle-lg pj-valign-middle-xl pj-container-layout-1">
                       <div
-                        className="u-border-2 u-border-grey-70 u-hover-feature u-image u-image-circle u-radius u-image-2"
+                        className="pj-border-2 pj-border-grey-70 pj-hover-feature pj-image pj-image-circle pj-radius pj-image-2"
                         data-image-width={460}
                         data-image-height={460}
                         data-animation-name="customAnimationIn"
@@ -265,74 +265,74 @@ export default function Home() {
                     </div>
                   </div>
                   <div
-                    className="u-container-style u-layout-cell u-size-30-lg u-size-30-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-2"
+                    className="pj-container-style pj-layout-cell pj-size-30-lg pj-size-30-xl pj-size-60-md pj-size-60-sm pj-size-60-xs pj-layout-cell-2"
                     data-animation-name="customAnimationIn"
                     data-animation-duration={1000}
                   >
-                    <div className="u-container-layout u-container-layout-2">
-                      <h3 className="u-align-center u-custom-font u-hover-feature u-text u-text-custom-color-2 u-text-1">
+                    <div className="pj-container-layout pj-container-layout-2">
+                      <h3 className="pj-align-center pj-custom-font pj-hover-feature pj-text pj-text-custom-color-2 pj-text-1">
                         {" "}
                         UM POUCO S​OBRE MIM​ ! Quem sou eu?
                       </h3>
-                      <h5 className="u-align-center u-custom-font u-text u-text-2">
+                      <h5 className="pj-align-center pj-custom-font pj-text pj-text-2">
                         {" "}
                         Desenvolvedor Front-End!
                       </h5>
-                      <p className="u-align-center u-heading-font u-text u-text-3">
-                        <span className="u-text-custom-color-2">&lt; </span>Meu
+                      <p className="pj-align-center pj-heading-font pj-text pj-text-3">
+                        <span className="pj-text-custom-color-2">&lt; </span>Meu
                         nome é Paulo Jorge, crio web designs personalizados.
                         Tenho habilidade em escrever códigos bem projetados,
                         testáveis ​e eficientes usando as melhores práticas
                         atuais em desenvolvimento Web. Aprendo rápido, trabalho
                         duro e trabalho em equipe, com proficiência na criação
                         de páginas da web criativas e inovadoras.{" "}
-                        <span className="u-text-custom-color-2">/&gt;</span>
+                        <span className="pj-text-custom-color-2">/&gt;</span>
                         &nbsp;
                         <br />
                       </p>
                       <div
-                        className="u-hover-feature u-social-icons u-spacing-31 u-social-icons-1"
+                        className="pj-hover-feature pj-social-icons pj-spacing-31 pj-social-icons-1"
                         data-animation-name="customAnimationIn"
                         data-animation-duration={1000}
                       >
                         <a
-                          className="u-social-url"
+                          className="pj-social-url"
                           title="html"
                           target="_blank"
                           href="https://github.com/topics/html"
                         >
-                          <span className="u-file-icon u-icon u-social-html u-social-icon u-text-custom-color-2 u-icon-1">
+                          <span className="pj-file-icon pj-icon pj-social-html pj-social-icon pj-text-custom-color-2 pj-icon-1">
                             <img src="images/1051328-f1b66de2.png" alt="" />
                           </span>
                         </a>
                         <a
-                          className="u-social-url"
+                          className="pj-social-url"
                           title="css"
                           target="_blank"
                           href="https://github.com/topics/css"
                         >
-                          <span className="u-file-icon u-icon u-social-icon u-social-css u-text-custom-color-2 u-icon-2">
+                          <span className="pj-file-icon pj-icon pj-social-icon pj-social-css pj-text-custom-color-2 pj-icon-2">
                             <img src="images/732007-b315c01f.png" alt="" />
                           </span>
                         </a>
                         <a
-                          className="u-social-url"
+                          className="pj-social-url"
                           title="Javascript"
                           target="_blank"
                           href="https://github.com/topics/javascript"
                         >
-                          <span className="u-file-icon u-icon u-social-icon u-social-Javascript u-text-custom-color-2 u-icon-3">
+                          <span className="pj-file-icon pj-icon pj-social-icon pj-social-Javascript pj-text-custom-color-2 pj-icon-3">
                             <img src="images/721671-af28a746.png" alt="" />
                           </span>
                         </a>
                         <a
-                          className="u-social-url"
+                          className="pj-social-url"
                           target="_blank"
                           data-type="React"
                           title="React"
                           href="https://github.com/topics/react"
                         >
-                          <span className="u-file-icon u-icon u-social-react u-social-icon u-text-custom-color-2 u-icon-4">
+                          <span className="pj-file-icon pj-icon pj-social-react pj-social-icon pj-text-custom-color-2 pj-icon-4">
                             <img src="images/1126012-84d82a33.png" alt="" />
                           </span>
                         </a>
@@ -345,12 +345,12 @@ export default function Home() {
           </div>
         </section>
         <section
-          className="u-clearfix u-grey-80 u-section-3"
+          className="pj-clearfix pj-grey-80 pj-section-3"
           id="carousel_a0bf"
         >
-          <div className="u-clearfix u-sheet u-sheet-1">
+          <div className="pj-clearfix pj-sheet pj-sheet-1">
             <h2
-              className="u-align-center-xs u-custom-font u-hover-feature u-text u-text-default u-text-white u-text-1"
+              className="pj-align-center-xs pj-custom-font pj-hover-feature pj-text pj-text-default pj-text-white pj-text-1"
               data-animation-name="customAnimationIn"
               data-animation-duration={1000}
             >
@@ -358,7 +358,7 @@ export default function Home() {
               Incentivos para programador
             </h2>
             <p
-              className="u-align-center-xs u-custom-font u-text u-text-2"
+              className="pj-align-center-xs pj-custom-font pj-text pj-text-2"
               data-animation-name="customAnimationIn"
               data-animation-duration={1000}
             >
@@ -366,20 +366,20 @@ export default function Home() {
               Não é a linguagem de programação que define o programador, mas sim
               sua lógica.&nbsp;😉
             </p>
-            <div className="u-expanded-width u-list u-list-1">
-              <div className="u-repeater u-repeater-1">
+            <div className="pj-expanded-width pj-list pj-list-1">
+              <div className="pj-repeater pj-repeater-1">
                 <div
-                  className="u-align-left u-container-style u-custom-item u-hover-feature u-image u-list-item u-radius u-repeater-item u-shape-round u-image-1"
+                  className="pj-align-left pj-container-style pj-custom-item pj-hover-feature pj-image pj-list-item pj-radius pj-repeater-item pj-shape-round pj-image-1"
                   data-animation-name="customAnimationIn"
                   data-animation-duration={1000}
                   data-image-width={905}
                   data-image-height={2031}
                 >
-                  <div className="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-                    <h3 className="u-custom-font u-font-montserrat u-text u-text-default u-text-3">
+                  <div className="pj-container-layout pj-similar-container pj-valign-top pj-container-layout-1">
+                    <h3 className="pj-custom-font pj-font-montserrat pj-text pj-text-default pj-text-3">
                       01
                     </h3>
-                    <p className="u-custom-item u-text u-text-4">
+                    <p className="pj-custom-item pj-text pj-text-4">
                       {" "}
                       Ser desenvolvedor é uma viagem onde a próxima parada é a
                       solução de um problema.
@@ -393,15 +393,15 @@ export default function Home() {
                   </div>
                 </div>
                 <div
-                  className="u-align-left u-container-style u-custom-color-2 u-custom-item u-hover-feature u-list-item u-radius u-repeater-item u-shape-round u-list-item-2"
+                  className="pj-align-left pj-container-style pj-custom-color-2 pj-custom-item pj-hover-feature pj-list-item pj-radius pj-repeater-item pj-shape-round pj-list-item-2"
                   data-animation-name="customAnimationIn"
                   data-animation-duration={1000}
                 >
-                  <div className="u-container-layout u-similar-container u-valign-top u-container-layout-2">
-                    <h3 className="u-custom-font u-font-montserrat u-text u-text-default u-text-5">
+                  <div className="pj-container-layout pj-similar-container pj-valign-top pj-container-layout-2">
+                    <h3 className="pj-custom-font pj-font-montserrat pj-text pj-text-default pj-text-5">
                       02
                     </h3>
-                    <p className="u-custom-item u-text u-text-6">
+                    <p className="pj-custom-item pj-text pj-text-6">
                       {" "}
                       "A questão não é saber os códigos ou linhas de comando, é
                       saber o que fazer com eles."
@@ -413,17 +413,17 @@ export default function Home() {
                   </div>
                 </div>
                 <div
-                  className="u-align-left u-container-style u-custom-item u-hover-feature u-image u-list-item u-radius u-repeater-item u-shape-round u-image-2"
+                  className="pj-align-left pj-container-style pj-custom-item pj-hover-feature pj-image pj-list-item pj-radius pj-repeater-item pj-shape-round pj-image-2"
                   data-animation-name="customAnimationIn"
                   data-animation-duration={1000}
                   data-image-width={905}
                   data-image-height={2031}
                 >
-                  <div className="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-                    <h3 className="u-custom-font u-font-montserrat u-text u-text-default u-text-7">
+                  <div className="pj-container-layout pj-similar-container pj-valign-top pj-container-layout-3">
+                    <h3 className="pj-custom-font pj-font-montserrat pj-text pj-text-default pj-text-7">
                       03
                     </h3>
-                    <p className="u-custom-item u-text u-text-8">
+                    <p className="pj-custom-item pj-text pj-text-8">
                       {" "}
                       Uma linguagem não faz seu código ser bom, programadores
                       bons fazem seu código ser bom.
@@ -438,7 +438,7 @@ export default function Home() {
             </div>
             <a
               href="https://www.ev.org.br/areas-de-interesse/programacao"
-              className="button u-border-none u-btn u-button-style u-hover-custom-color-2 u-hover-feature u-palette-1-light-3 u-radius u-btn-1"
+              className="button pj-border-none pj-btn pj-button-style pj-hover-custom-color-2 pj-hover-feature pj-palette-1-light-3 pj-radius pj-btn-1"
               data-animation-name="customAnimationIn"
               data-animation-duration={1000}
             >
@@ -448,12 +448,12 @@ export default function Home() {
           </div>
         </section>
         <section
-          className="u-clearfix u-grey-80 u-lightbox u-section-4"
+          className="pj-clearfix pj-grey-80 pj-lightbox pj-section-4"
           id="carousel_51fd"
         >
-          <div className="u-clearfix u-sheet u-valign-middle-md u-sheet-1">
+          <div className="pj-clearfix pj-sheet pj-valign-middle-md pj-sheet-1">
             <h3
-              className="u-align-center u-custom-font u-hover-feature u-text u-text-custom-color-2 u-text-1"
+              className="pj-align-center pj-custom-font pj-hover-feature pj-text pj-text-custom-color-2 pj-text-1"
               data-animation-name="bounceIn"
               data-animation-duration={1000}
               data-animation-direction=""
@@ -462,7 +462,7 @@ export default function Home() {
               Biografia
             </h3>
             <p
-              className="u-align-center u-custom-font u-hover-feature u-text u-text-2"
+              className="pj-align-center pj-custom-font pj-hover-feature pj-text pj-text-2"
               data-animation-name="bounceIn"
               data-animation-duration={1000}
               data-animation-direction=""
@@ -477,7 +477,7 @@ export default function Home() {
               </b>
             </p>
             <div
-              className="u-align-left u-border-2 u-border-custom-color-2 u-expanded-width u-hover-feature u-left-0 u-uploaded-video u-video u-video-1"
+              className="pj-align-left pj-border-2 pj-border-custom-color-2 pj-expanded-width pj-hover-feature pj-left-0 pj-uploaded-video pj-video pj-video-1"
               data-animation-name="pulse"
               data-animation-duration={1000}
               data-animation-direction=""
@@ -500,14 +500,14 @@ export default function Home() {
               </div>
             </div>
             <div
-              className="custom-expanded infinite u-align-left u-black u-opacity u-opacity-15 u-preserve-proportions u-shape u-shape-circle u-shape-1"
+              className="custom-expanded infinite pj-align-left pj-black pj-opacity pj-opacity-15 pj-preserve-proportions pj-shape pj-shape-circle pj-shape-1"
               data-animation-name="pulse"
               data-animation-duration={2000}
               data-animation-direction=""
               data-animation-delay={1000}
             />
             <img
-              className="custom-expanded u-expanded-width-md u-expanded-width-sm u-hover-feature u-image u-image-contain u-image-default u-image-1"
+              className="custom-expanded pj-expanded-width-md pj-expanded-width-sm pj-hover-feature pj-image pj-image-contain pj-image-default pj-image-1"
               src="images/240523021501red-p-1080.png"
               alt=""
               data-image-width={1080}
@@ -519,12 +519,12 @@ export default function Home() {
           </div>
         </section>
         <section
-          className="u-clearfix u-grey-80 u-lightbox u-section-5"
+          className="pj-clearfix pj-grey-80 pj-lightbox pj-section-5"
           id="carousel_c456"
         >
-          <div className="u-clearfix u-sheet u-sheet-1">
+          <div className="pj-clearfix pj-sheet pj-sheet-1">
             <img
-              className="u-image u-image-default u-preserve-proportions u-image-1"
+              className="pj-image pj-image-default pj-preserve-proportions pj-image-1"
               src="images/_4194b80d-3e52-4d88-8613-d004f2b98db5.jpeg-PhotoRoom.png-PhotoRoom.png"
               alt=""
               data-image-width={1024}
@@ -533,14 +533,14 @@ export default function Home() {
               data-animation-duration={1000}
             />
             <div
-              className="custom-expanded u-container-style u-group u-shape-rectangle u-group-1"
+              className="custom-expanded pj-container-style pj-group pj-shape-rectangle pj-group-1"
               data-animation-name="customAnimationIn"
               data-animation-duration={1000}
             >
-              <div className="u-container-layout u-container-layout-1">
-                <div className="u-shape u-shape-svg u-text-white u-shape-1">
+              <div className="pj-container-layout pj-container-layout-1">
+                <div className="pj-shape pj-shape-svg pj-text-white pj-shape-1">
                   <svg
-                    className="u-svg-link"
+                    className="pj-svg-link"
                     preserveAspectRatio="none"
                     viewBox="0 0 160 130"
                     style={{}}
@@ -548,7 +548,7 @@ export default function Home() {
                     <use xlinkHref="#svg-c09c" />
                   </svg>
                   <svg
-                    className="u-svg-content"
+                    className="pj-svg-content"
                     viewBox="0 0 160 130"
                     x="0px"
                     y="0px"
@@ -560,9 +560,9 @@ export default function Home() {
                     />
                   </svg>
                 </div>
-                <div className="u-container-style u-group u-shape-rectangle u-group-2">
-                  <div className="u-container-layout u-container-layout-2">
-                    <p className="u-text u-text-black u-text-default u-text-1">
+                <div className="pj-container-style pj-group pj-shape-rectangle pj-group-2">
+                  <div className="pj-container-layout pj-container-layout-2">
+                    <p className="pj-text pj-text-black pj-text-default pj-text-1">
                       {" "}
                       Olá, Como vai? Meu nome é{" "}
                       <span style={{ fontWeight: 700 }}>Paulo Jorge</span> e
@@ -574,17 +574,17 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="u-container-style u-group u-shape-rectangle u-group-3">
-              <div className="u-container-layout u-container-layout-3">
+            <div className="pj-container-style pj-group pj-shape-rectangle pj-group-3">
+              <div className="pj-container-layout pj-container-layout-3">
                 <span
-                  className="button u-border-2 u-border-custom-color-5 u-file-icon u-hover-feature u-icon u-icon-circle u-text-custom-color-5 u-icon-1"
+                  className="button pj-border-2 pj-border-custom-color-5 pj-file-icon pj-hover-feature pj-icon pj-icon-circle pj-text-custom-color-5 pj-icon-1"
                   data-animation-name="customAnimationIn"
                   data-animation-duration={1000}
                 >
                   <img src="images/7837401-cded9e89.png" alt="" />
                 </span>
                 <a href="https://t.me/Pjxsantos">
-                  <span className="u-border-2 u-border-custom-color-2 u-file-icon u-hover-feature u-icon u-icon-circle u-opacity u-opacity-0 u-text-custom-color-2 u-icon-2">
+                  <span className="pj-border-2 pj-border-custom-color-2 pj-file-icon pj-hover-feature pj-icon pj-icon-circle pj-opacity pj-opacity-0 pj-text-custom-color-2 pj-icon-2">
                     <img src="images/2111813-78859029.png" alt="" />
                   </span>
                 </a>
@@ -593,24 +593,24 @@ export default function Home() {
           </div>
         </section>
         <section
-          className="u-align-center u-black u-clearfix u-section-6"
+          className="pj-align-center pj-black pj-clearfix pj-section-6"
           id="carousel_8ad9"
         >
           <h3
-            className="u-align-center u-custom-font u-hover-feature u-text u-text-default u-text-1"
+            className="pj-align-center pj-custom-font pj-hover-feature pj-text pj-text-default pj-text-1"
             data-animation-name="customAnimationIn"
             data-animation-duration={1000}
             data-animation-direction=""
           >
             Meus projetos
           </h3>
-          <div className="u-expanded-width u-layout-horizontal u-list u-list-1">
-            <div className="u-repeater u-repeater-1">
-              <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
-                <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-1">
+          <div className="pj-expanded-width pj-layout-horizontal pj-list pj-list-1">
+            <div className="pj-repeater pj-repeater-1">
+              <div className="pj-container-align-center pj-container-style pj-custom-item pj-list-item pj-repeater-item">
+                <div className="pj-container-layout pj-similar-container pj-valign-bottom pj-container-layout-1">
                   <img
                     alt=""
-                    className="u-hover-feature u-image u-image-contain u-image-default u-image-1"
+                    className="pj-hover-feature pj-image pj-image-contain pj-image-default pj-image-1"
                     data-image-width={1920}
                     data-image-height={676}
                     src="images/LOGObranca.png"
@@ -618,11 +618,11 @@ export default function Home() {
                   />
                 </div>
               </div>
-              <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
-                <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-2">
+              <div className="pj-container-align-center pj-container-style pj-custom-item pj-list-item pj-repeater-item">
+                <div className="pj-container-layout pj-similar-container pj-valign-bottom pj-container-layout-2">
                   <img
                     alt=""
-                    className="u-hover-feature u-image u-image-contain u-image-default u-image-2"
+                    className="pj-hover-feature pj-image pj-image-contain pj-image-default pj-image-2"
                     data-image-width={462}
                     data-image-height={247}
                     src="images/CONET41.png"
@@ -630,11 +630,11 @@ export default function Home() {
                   />
                 </div>
               </div>
-              <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
-                <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-3">
+              <div className="pj-container-align-center pj-container-style pj-custom-item pj-list-item pj-repeater-item">
+                <div className="pj-container-layout pj-similar-container pj-valign-bottom pj-container-layout-3">
                   <img
                     alt=""
-                    className="u-hover-feature u-image u-image-contain u-image-default u-image-3"
+                    className="pj-hover-feature pj-image pj-image-contain pj-image-default pj-image-3"
                     data-image-width={540}
                     data-image-height={540}
                     src="images/unnamed.png"
@@ -642,11 +642,11 @@ export default function Home() {
                   />
                 </div>
               </div>
-              <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
-                <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-4">
+              <div className="pj-container-align-center pj-container-style pj-custom-item pj-list-item pj-repeater-item">
+                <div className="pj-container-layout pj-similar-container pj-valign-bottom pj-container-layout-4">
                   <img
                     alt=""
-                    className="u-hover-feature u-image u-image-contain u-image-default u-image-4"
+                    className="pj-hover-feature pj-image pj-image-contain pj-image-default pj-image-4"
                     data-image-width={376}
                     data-image-height={245}
                     src="images/1703183666890logo.png"
@@ -654,11 +654,11 @@ export default function Home() {
                   />
                 </div>
               </div>
-              <div className="u-container-align-center u-container-style u-custom-item u-list-item u-repeater-item">
-                <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-5">
+              <div className="pj-container-align-center pj-container-style pj-custom-item pj-list-item pj-repeater-item">
+                <div className="pj-container-layout pj-similar-container pj-valign-bottom pj-container-layout-5">
                   <img
                     alt=""
-                    className="u-hover-feature u-image u-image-contain u-image-default u-image-5"
+                    className="pj-hover-feature pj-image pj-image-contain pj-image-default pj-image-5"
                     data-image-width={720}
                     data-image-height={720}
                     src="images/1704146100917logo.png"
@@ -668,7 +668,7 @@ export default function Home() {
               </div>
             </div>
             <a
-              className="u-absolute-vcenter u-border-2 u-border-grey-90 u-custom-color-2 u-gallery-nav u-gallery-nav-prev u-icon-rounded u-opacity u-opacity-70 u-radius u-spacing-10 u-gallery-nav-1"
+              className="pj-absolute-vcenter pj-border-2 pj-border-grey-90 pj-custom-color-2 pj-gallery-nav pj-gallery-nav-prev pj-icon-rounded pj-opacity pj-opacity-70 pj-radius pj-spacing-10 pj-gallery-nav-1"
               href="#"
               role="button"
             >
@@ -692,7 +692,7 @@ export default function Home() {
               </span>
             </a>
             <a
-              className="u-absolute-vcenter u-border-2 u-border-grey-90 u-custom-color-2 u-gallery-nav u-gallery-nav-next u-icon-rounded u-opacity u-opacity-70 u-radius u-spacing-10 u-gallery-nav-2"
+              className="pj-absolute-vcenter pj-border-2 pj-border-grey-90 pj-custom-color-2 pj-gallery-nav pj-gallery-nav-next pj-icon-rounded pj-opacity pj-opacity-70 pj-radius pj-spacing-10 pj-gallery-nav-2"
               href="#"
               role="button"
             >
@@ -717,56 +717,56 @@ export default function Home() {
             </a>
           </div>
           <div
-            className="u-align-center u-border-1 u-border-custom-color-2 u-line u-line-horizontal u-line-1"
+            className="pj-align-center pj-border-1 pj-border-custom-color-2 pj-line pj-line-horizontal pj-line-1"
             data-animation-name="bounceIn"
             data-animation-duration={1000}
             data-animation-direction="Left"
           />
         </section>
         <style
-          className="u-overlap-style"
+          className="pj-overlap-style"
           dangerouslySetInnerHTML={{
             __html:
-              ".u-overlap:not(.u-sticky-scroll) .u-header {\n      transparency: 5 !important; background-color: #fa6a00 !important\n      }\n    ",
+              ".pj-overlap:not(.pj-sticky-scroll) .pj-header {\n      transparency: 5 !important; background-color: #fa6a00 !important\n      }\n    ",
           }}
         />
         <footer
-          className="u-align-center u-black u-clearfix u-footer u-footer"
+          className="pj-align-center pj-black pj-clearfix pj-footer pj-footer"
           id="sec-fbad"
         >
-          <div className="u-clearfix u-sheet u-valign-middle u-sheet-1">
-            <p className="u-small-text u-text u-text-variant u-text-1">
+          <div className="pj-clearfix pj-sheet pj-valign-middle pj-sheet-1">
+            <p className="pj-small-text pj-text pj-text-variant pj-text-1">
               {" "}
               Copyright © 2023 – Todos os Direitos Reservados.
             </p>
-            <div className="u-hover-feature u-social-icons u-spacing-10 u-social-icons-1">
+            <div className="pj-hover-feature pj-social-icons pj-spacing-10 pj-social-icons-1">
               <a
-                className="u-social-url"
+                className="pj-social-url"
                 title="Github"
                 target="_blank"
                 href="https://github.com/Pjxsantos"
               >
-                <span className="u-file-icon u-icon u-social-facebook u-social-icon u-text-custom-color-2 u-icon-1">
+                <span className="pj-file-icon pj-icon pj-social-facebook pj-social-icon pj-text-custom-color-2 pj-icon-1">
                   <img src="images/2111432-434c94f3.png" alt="" />
                 </span>
               </a>
               <a
-                className="u-social-url"
+                className="pj-social-url"
                 title="Gmail"
                 target="_blank"
                 href="mailto:pjxsantos.portfolio@gmail.com"
               >
-                <span className="u-file-icon u-icon u-social-icon u-social-twitter u-text-custom-color-2 u-icon-2">
+                <span className="pj-file-icon pj-icon pj-social-icon pj-social-twitter pj-text-custom-color-2 pj-icon-2">
                   <img src="images/6244710-b83756d9.png" alt="" />
                 </span>
               </a>
               <a
-                className="u-social-url"
+                className="pj-social-url"
                 title="Linkedin"
                 target="_blank"
                 href="https://www.linkedin.com/in/pjxsantos/"
               >
-                <span className="u-file-icon u-icon u-social-icon u-social-instagram u-text-custom-color-2 u-icon-3">
+                <span className="pj-file-icon pj-icon pj-social-icon pj-social-instagram pj-text-custom-color-2 pj-icon-3">
                   <img src="images/1384014-28b140e5.png" alt="" />
                 </span>
               </a>
@@ -787,7 +787,7 @@ export default function Home() {
               padding: 7,
               boxShadow: "0px 0px 8px 0px rgba(0,0,0,0.7)",
             }}
-            className="u-back-to-top u-file-icon u-grey-80 u-icon u-icon-circle u-opacity u-opacity-85 u-text-custom-color-2"
+            className="pj-back-to-top pj-file-icon pj-grey-80 pj-icon pj-icon-circle pj-opacity pj-opacity-85 pj-text-custom-color-2"
             data-href="#sec-c00f"
           >
             <img src="images/7237c477.png" alt="" />
