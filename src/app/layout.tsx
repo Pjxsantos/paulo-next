@@ -25,6 +25,8 @@ export default function RootLayout({
       <Script src="js/data.js"  />  
       <Script src="js/audio.js"  /> 
       <Script src="js/accordion.min.js"  />
+      <Script src="js/particles.js"/>
+      <Script src="js/app.js"/>
     </html>
     
   )

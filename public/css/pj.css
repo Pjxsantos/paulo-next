@@ -1808,3 +1808,14 @@
 body {
   cursor: url('../images/cursor.png'), auto;
 }
+/* ---- particles.js container ---- */
+
+#particles-js{
+  width: auto;
+  height: 100px;
+  background-color: #4b4444;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}

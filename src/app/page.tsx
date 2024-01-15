@@ -450,7 +450,7 @@ export default function Home() {
         <section
           className="pj-clearfix pj-grey-80 pj-lightbox pj-section-4"
           id="carousel_51fd"
-        >
+        > 
           <div className="pj-clearfix pj-sheet pj-valign-middle-md pj-sheet-1">
             <h3
               className="pj-align-center pj-custom-font pj-hover-feature pj-text pj-text-custom-color-2 pj-text-1"
@@ -521,7 +521,7 @@ export default function Home() {
         <section
           className="pj-clearfix pj-grey-80 pj-lightbox pj-section-5"
           id="carousel_c456"
-        >
+        ><div id="particles-js"></div>
           <div className="pj-clearfix pj-sheet pj-sheet-1">
             <img
               className="pj-image pj-image-default pj-preserve-proportions pj-image-1"
