@@ -149,13 +149,11 @@ export default function Home() {
               id="relogio"
               className="pj-small-text pj-text pj-text-black pj-text-default pj-text-variant pj-text-2"
             >
-              BRASIL 13:24:30
             </p>
             <p
               id="data"
               className="pj-small-text pj-text pj-text-black pj-text-default pj-text-variant pj-text-3"
             >
-              2023
             </p>
           </div>
           <style
