@@ -1,3 +1,32 @@
+
+
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse repositório contém essas tais tecnologias :
+
+- Next.js
+- Typescript 
+- JavaScript
+- css
+
+## 💻 Projeto
+
+Desenvolvi o meu próprio site para poder compartilhar a minha tranjetória na programação e mostrar minhas skills no momento!
+
+## 🖼️ Tela Inicial : 
+
+![image](https://portfolio-pjxsantos.vercel.app/images/app.jpg)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
