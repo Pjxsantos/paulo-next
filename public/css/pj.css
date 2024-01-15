@@ -1,5 +1,5 @@
- .pj-section-1 {
-  background-image: linear-gradient(black, #4b4444);
+.pj-section-1 {
+  background-image: linear-gradient(black, #333333);
   min-height: 802px;
 }
 
@@ -1443,6 +1443,14 @@
   }
 }
 
+@media (max-width: 991px) {
+  .pj-section-5 .pj-group-3 {
+    margin-top: 4px;
+    margin-right: 168px;
+    margin-bottom: 15px;
+  }
+}
+
 @media (max-width: 767px) {
   .pj-section-5 .pj-image-1 {
     margin-top: 121px;
@@ -1484,9 +1492,9 @@
   }
 
   .pj-section-5 .pj-group-3 {
-    margin-top: 13px;
-    margin-right: 0;
-    margin-bottom: 6px;
+    margin-top: 19px;
+    margin-right: 7px;
+    margin-bottom: 0;
   }
 }
 
