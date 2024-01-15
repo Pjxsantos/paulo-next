@@ -28,7 +28,7 @@ export default function RootLayout({
       <Script src="js/accordion.min.js"  />
       <Script src="js/particles.js"/>
       <Script src="js/app.js"/>
-      <Script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.8/typed.min.js"/>
+      <Script src="js/typed.min.js"/>
       <Script src="js/typed.js"/>
                   </html>
     
