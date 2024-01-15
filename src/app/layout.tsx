@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="pt-br">
       <body className={inter.className}>{children}</body>
-      <Script src="js/jquery-1.9.1.min.js"  />
+      <Script src="js/jquery-3.6.0.min.js"  />
       <Script src="js/script.js"  />    
       <Script src="js/relogio.js"  />
       <Script src="js/data.js"  />  
@@ -27,7 +27,9 @@ export default function RootLayout({
       <Script src="js/accordion.min.js"  />
       <Script src="js/particles.js"/>
       <Script src="js/app.js"/>
-    </html>
+      <Script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.8/typed.min.js"/>
+      <Script src="js/typed.js"/>
+                  </html>
     
   )
 }

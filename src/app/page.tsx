@@ -273,8 +273,7 @@ export default function Home() {
                         UM POUCO S​OBRE MIM​ ! Quem sou eu?
                       </h3>
                       <h5 className="pj-align-center pj-custom-font pj-text pj-text-2">
-                        {" "}
-                        Desenvolvedor Front-End!
+                        {" "}<span id="typed"></span>
                       </h5>
                       <p className="pj-align-center pj-heading-font pj-text pj-text-3">
                         <span className="pj-text-custom-color-2">&lt; </span>Meu
@@ -300,7 +299,7 @@ export default function Home() {
                           href="https://github.com/topics/html"
                         >
                           <span className="pj-file-icon pj-icon pj-social-html pj-social-icon pj-text-custom-color-2 pj-icon-1">
-                            <img src="images/1051328-f1b66de2.png" alt="" />
+                            <img src="images/html.png" alt="" />
                           </span>
                         </a>
                         <a
@@ -310,7 +309,7 @@ export default function Home() {
                           href="https://github.com/topics/css"
                         >
                           <span className="pj-file-icon pj-icon pj-social-icon pj-social-css pj-text-custom-color-2 pj-icon-2">
-                            <img src="images/732007-b315c01f.png" alt="" />
+                            <img src="images/css.png" alt="" />
                           </span>
                         </a>
                         <a
@@ -320,7 +319,7 @@ export default function Home() {
                           href="https://github.com/topics/javascript"
                         >
                           <span className="pj-file-icon pj-icon pj-social-icon pj-social-Javascript pj-text-custom-color-2 pj-icon-3">
-                            <img src="images/721671-af28a746.png" alt="" />
+                            <img src="images/javascript.png" alt="" />
                           </span>
                         </a>
                         <a
@@ -331,7 +330,7 @@ export default function Home() {
                           href="https://github.com/topics/react"
                         >
                           <span className="pj-file-icon pj-icon pj-social-react pj-social-icon pj-text-custom-color-2 pj-icon-4">
-                            <img src="images/1126012-84d82a33.png" alt="" />
+                            <img src="images/react.png" alt="" />
                           </span>
                         </a>
                       </div>
@@ -744,8 +743,8 @@ export default function Home() {
                 target="_blank"
                 href="https://github.com/Pjxsantos"
               >
-                <span className="pj-file-icon pj-icon pj-social-facebook pj-social-icon pj-text-custom-color-2 pj-icon-1">
-                  <img src="images/2111432-434c94f3.png" alt="" />
+                <span className="pj-file-icon pj-icon pj-social-github pj-social-icon pj-text-custom-color-2 pj-icon-1">
+                  <img src="images/github.png" alt="" />
                 </span>
               </a>
               <a
@@ -754,8 +753,8 @@ export default function Home() {
                 target="_blank"
                 href="mailto:pjxsantos.portfolio@gmail.com"
               >
-                <span className="pj-file-icon pj-icon pj-social-icon pj-social-twitter pj-text-custom-color-2 pj-icon-2">
-                  <img src="images/6244710-b83756d9.png" alt="" />
+                <span className="pj-file-icon pj-icon pj-social-icon pj-social-gmail pj-text-custom-color-2 pj-icon-2">
+                  <img src="images/gmail.png" alt="" />
                 </span>
               </a>
               <a
@@ -764,8 +763,8 @@ export default function Home() {
                 target="_blank"
                 href="https://www.linkedin.com/in/pjxsantos/"
               >
-                <span className="pj-file-icon pj-icon pj-social-icon pj-social-instagram pj-text-custom-color-2 pj-icon-3">
-                  <img src="images/1384014-28b140e5.png" alt="" />
+                <span className="pj-file-icon pj-icon pj-social-icon pj-social-linkedin pj-text-custom-color-2 pj-icon-3">
+                  <img src="images/linkedin.png" alt="" />
                 </span>
               </a>
             </div>
