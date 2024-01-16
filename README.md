@@ -20,6 +20,10 @@ Esse repositório contém essas tais tecnologias :
 
 Desenvolvi o meu próprio site para poder compartilhar a minha tranjetória na programação!
 
+## Licença ⚠️
+
+Esse projeto está sob a licença MIT.
+
 ## 🖼️ Tela Inicial : 
 ![image](https://portfolio-pjxsantos.vercel.app/images/apresentacao.png)
 
