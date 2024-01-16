@@ -23,8 +23,6 @@ Desenvolvi o meu próprio site para poder compartilhar a minha tranjetória na p
 ## 🖼️ Tela Inicial : 
 ![image](https://portfolio-pjxsantos.vercel.app/images/apresentacao.png)
 
-![image](https://portfolio-pjxsantos.vercel.app/images/inicial.jpg)
-
 ![image](https://portfolio-pjxsantos.vercel.app/images/cel.png)
 
 
