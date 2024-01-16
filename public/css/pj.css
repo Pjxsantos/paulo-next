@@ -1816,16 +1816,4 @@ body {
   height: 85vh; 
 }
 /* ----titulo---- */
-.ml4 {
-
-}
-.ml4 .letters {
-  position: absolute;
-  margin: auto;
-  width: 100%;
-  left: 0;
-  top: 0.3em;
-  right: 0;
-  opacity: 0; 
-}
 
