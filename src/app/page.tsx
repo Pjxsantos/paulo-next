@@ -270,14 +270,14 @@ export default function Home() {
                     data-animation-duration={1000}
                   >
                     <div className="pj-container-layout pj-container-layout-2">
-                      <h3 className="pj-align-center pj-custom-font pj-hover-feature pj-text pj-text-custom-color-2 pj-text-1">
+                      <h3 className="pj-align-left pj-custom-font pj-hover-feature pj-text pj-text-custom-color-2 pj-text-1">
                         {" "}
                         UM POUCO S​OBRE MIM​ ! Quem sou eu?
                       </h3>
-                      <h5 className="pj-align-center pj-custom-font pj-text pj-text-2">
+                      <h5 className="pj-align-left pj-custom-font pj-text pj-text-2">
                         {" "}<span id="typed"></span>
                       </h5>
-                      <p className="pj-align-center pj-heading-font pj-text pj-text-3">
+                      <p className="pj-align-left pj-heading-font pj-text pj-text-3">
                         <span className="pj-text-custom-color-2">&lt; </span>Meu
                         nome é Paulo Jorge, crio web designs personalizados.
                         Tenho habilidade em escrever códigos bem projetados,
