@@ -183,14 +183,12 @@ export default function Home() {
           <div className="pj-container-style pj-group pj-shape-rectangle pj-group-1">
             <div className="pj-container-layout pj-container-layout-1">
               <h2
-                className="ml4 pj-align-left pj-custom-font pj-text-custom-color-2 pj-text-default pj-text-1"
+                className="pj-align-left pj-custom-font pj-text pj-text-custom-color-2 pj-text-default pj-text-1"
                 data-animation-name="customAnimationIn"
                 data-animation-duration={1000}
-              ><span className="letters letters-1">DESIGN</span>
-              <span className="letters letters-2">DIGITAL</span>
-              <span className="letters letters-3">BRASIL</span>
+              >
                 {" "}
-                <br/>
+                DESIGN DIGITAL
               </h2>
               <h1
                 className="pj-align-left pj-custom-font pj-text pj-text-white pj-text-2"
