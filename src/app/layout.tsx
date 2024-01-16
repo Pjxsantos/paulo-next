@@ -32,7 +32,7 @@ export default function RootLayout({
       <Script src="js/typed.js"/>
       <Script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"/>
       <Script src="js/titulo.js"/>
-                  </html>
+      </html>
     
   )
 }

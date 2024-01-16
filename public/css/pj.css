@@ -1817,9 +1817,7 @@ body {
 }
 /* ----titulo---- */
 .ml4 {
-  position: relative;
-  font-weight: 900;
-  font-size: 4.5em;
+
 }
 .ml4 .letters {
   position: absolute;
