@@ -18,7 +18,7 @@ Esse repositório contém essas tais tecnologias :
 
 ## 💻 Projeto
 
-Desenvolvi o meu próprio site para poder compartilhar a minha tranjetória na programação e mostrar minhas skills no momento!
+Desenvolvi o meu próprio site para poder compartilhar a minha tranjetória na programação!
 
 ## 🖼️ Tela Inicial : 
 ![image](https://portfolio-pjxsantos.vercel.app/images/apresentacao.png)
