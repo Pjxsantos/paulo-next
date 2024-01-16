@@ -19,7 +19,10 @@ export default function Home() {
       />
       <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
 
-      <meta content="https://portfolio-pjxsantos.vercel.app/images/app.jpg" property="og:image" />
+      <meta
+        content="https://portfolio-pjxsantos.vercel.app/images/app.jpg"
+        property="og:image"
+      />
       <meta name="theme-color" content="#333333" />
       <meta property="og:title" content="Portfólio Paulo Jorge" />
       <meta property="og:type" content="website" />
@@ -148,13 +151,11 @@ export default function Home() {
             <p
               id="relogio"
               className="pj-small-text pj-text pj-text-black pj-text-default pj-text-variant pj-text-2"
-            >
-            </p>
+            ></p>
             <p
               id="data"
               className="pj-small-text pj-text pj-text-black pj-text-default pj-text-variant pj-text-3"
-            >
-            </p>
+            ></p>
           </div>
           <style
             className="pj-sticky-style"
@@ -273,7 +274,8 @@ export default function Home() {
                         UM POUCO S​OBRE MIM​ ! Quem sou eu?
                       </h3>
                       <h5 className="pj-align-left pj-custom-font pj-text pj-text-2">
-                        {" "}<span id="typed"></span>
+                        {" "}
+                        <span id="typed"></span>
                       </h5>
                       <p className="pj-align-left pj-heading-font pj-text pj-text-3">
                         <span className="pj-text-custom-color-2">&lt; </span>Meu
@@ -447,7 +449,8 @@ export default function Home() {
         <section
           className="pj-clearfix pj-grey-80 pj-lightbox pj-section-4"
           id="carousel_51fd"
-        ><div id="particles-js"></div>
+        >
+          <div id="particles-js"></div>
           <div className="pj-clearfix pj-sheet pj-valign-middle-md pj-sheet-1">
             <h3
               className="pj-align-center pj-custom-font pj-hover-feature pj-text pj-text-custom-color-2 pj-text-1"
