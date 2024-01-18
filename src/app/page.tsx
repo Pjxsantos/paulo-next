@@ -586,7 +586,7 @@ export default function Home() {
                 </span>
                 <a href="https://t.me/Pjxsantos">
                   <span className="pj-border-2 pj-border-custom-color-2 pj-file-icon pj-hover-feature pj-icon pj-icon-circle pj-opacity pj-opacity-0 pj-text-custom-color-2 pj-icon-2">
-                    <img src="images/2111813-78859029.png" alt="" />
+                    <img src="images/telegram.png" alt="" />
                   </span>
                 </a>
               </div>
@@ -728,7 +728,7 @@ export default function Home() {
           className="pj-overlap-style"
           dangerouslySetInnerHTML={{
             __html:
-              ".pj-overlap:not(.pj-sticky-scroll) .pj-header {\n      transparency: 5 !important; background-color: #fa6a00 !important\n      }\n    ",
+              ".pj-overlap:not(.pj-sticky-scroll) .pj-header {\n      transparency: 5 !important; background-color: #33A8D4 !important\n      }\n    ",
           }}
         />
         <footer
