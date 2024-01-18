@@ -25,9 +25,9 @@ Desenvolvi o meu próprio site para poder compartilhar a minha tranjetória na p
 Esse projeto está sob a licença MIT.
 
 ## 🖼️ Tela Inicial : 
-![image](https://portfolio-pjxsantos.vercel.app/images/apresentacao.png)
+![image](https://portfolio-pjxsantos.vercel.app/images/tab.png)
 
-![image](https://portfolio-pjxsantos.vercel.app/images/cel.png)
+![image](https://portfolio-pjxsantos.vercel.app/images/cel.jpg)
 
 
 
