@@ -24,7 +24,7 @@ export default function Home() {
         content="https://portfolio-pjxsantos.vercel.app/images/app.jpg"
         property="og:image"
       />
-      <meta name="theme-color" content="#333333" />
+      <meta name="theme-color" content="#1c1a86" />
       <meta property="og:title" content="Portfólio Paulo Jorge" />
       <meta property="og:type" content="website" />
       <link rel="canonical" href="/" />
@@ -379,7 +379,7 @@ export default function Home() {
                     <h3 className="pj-custom-font pj-font-montserrat pj-text pj-text-default pj-text-3">
                       01
                     </h3>
-                    <p className="pj-custom-item pj-text pj-text-4">
+                    <p className="pj-custom-item pj-text pj-text-6">
                       {" "}
                       Ser desenvolvedor é uma viagem onde a próxima parada é a
                       solução de um problema.
@@ -423,7 +423,7 @@ export default function Home() {
                     <h3 className="pj-custom-font pj-font-montserrat pj-text pj-text-default pj-text-7">
                       03
                     </h3>
-                    <p className="pj-custom-item pj-text pj-text-8">
+                    <p className="pj-custom-item pj-text pj-text-6">
                       {" "}
                       Uma linguagem não faz seu código ser bom, programadores
                       bons fazem seu código ser bom.
