@@ -40,7 +40,7 @@
 <feGaussianBlur stdDeviation="112.679" result="effect1_foregroundBlur_725_2354"/>
 </filter>
 <linearGradient id="paint0_linear_725_2354" x1="1089" y1="614.852" x2="1484.48" y2="2156.42" gradientUnits="userSpaceOnUse">
-<stop stop-color="#2442AB"/>
+<stop stop-color="#33A8D4"/>
 <stop offset="1" stop-color="#33A8D4"/>
 </linearGradient>
 <radialGradient id="paint1_radial_725_2354" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1487.46 1327.64) rotate(-51.6792) scale(532.335 725.253)">
@@ -51,10 +51,10 @@
 <stop offset="1" stop-color="#D59F42"/>
 </radialGradient>
 <linearGradient id="paint2_linear_725_2354" x1="612.041" y1="765.523" x2="2031.46" y2="1909.01" gradientUnits="userSpaceOnUse">
-<stop stop-color="#02226C"/>
-<stop offset="0.16591" stop-color="#164787"/>
+<stop stop-color="#33A8D4"/>
+<stop offset="0.16591" stop-color="#33A8D4"/>
 <stop offset="0.30769" stop-color="#8F94FF"/>
-<stop offset="0.646881" stop-color="#164787"/>
+<stop offset="0.646881" stop-color="#33A8D4"/>
 <stop offset="0.758122" stop-color="#FDE14D"/>
 <stop offset="0.860892" stop-color="#8F94FF"/>
 </linearGradient>
