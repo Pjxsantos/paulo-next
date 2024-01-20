@@ -738,7 +738,7 @@ export default function Home() {
           <div className="pj-clearfix pj-sheet pj-valign-middle pj-sheet-1">
             <p className="pj-small-text pj-text pj-text-variant pj-text-1">
               {" "}
-              Copyright © 2023 – Todos os Direitos Reservados.
+              Copyright © 2024 – Todos os Direitos Reservados.
             </p>
             <div className="pj-hover-feature pj-social-icons pj-spacing-10 pj-social-icons-1">
               <a
