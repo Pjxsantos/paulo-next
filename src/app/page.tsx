@@ -21,7 +21,7 @@ export default function Home() {
       <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
 
       <meta
-        content="https://portfolio-pjxsantos.vercel.app/images/paulo.jpg"
+        content="https://portfolio-pjxsantos.vercel.app/images/paulo.jpeg"
         property="og:image"
       />
       <meta name="theme-color" content="#1c1a86" />
