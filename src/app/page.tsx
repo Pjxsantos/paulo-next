@@ -344,43 +344,43 @@ export default function Home() {
                       >
                         <a
                           className="pj-social-url"
-                          title="html"
+                          title="Node.js"
                           target="_blank"
-                          href="https://github.com/topics/html"
+                          href="https://github.com/topics/nodejs"
                         >
-                          <span className="pj-file-icon pj-icon pj-social-html pj-social-icon pj-text-custom-color-2 pj-icon-1">
-                            <img src="images/html.png" alt="" />
+                          <span className="pj-file-icon pj-icon pj-social-nodjs pj-social-icon pj-text-custom-color-2 pj-icon-1">
+                            <img src="images/nodejs.png" alt="" />
                           </span>
                         </a>
                         <a
                           className="pj-social-url"
-                          title="css"
+                          title="Npm"
                           target="_blank"
-                          href="https://github.com/topics/css"
+                          href="https://github.com/topics/npm"
                         >
-                          <span className="pj-file-icon pj-icon pj-social-icon pj-social-css pj-text-custom-color-2 pj-icon-2">
-                            <img src="images/css.png" alt="" />
+                          <span className="pj-file-icon pj-icon pj-social-icon pj-social-npm pj-text-custom-color-2 pj-icon-2">
+                            <img src="images/npm.png" alt="" />
                           </span>
                         </a>
                         <a
                           className="pj-social-url"
-                          title="Javascript"
+                          title="PHP"
                           target="_blank"
-                          href="https://github.com/topics/javascript"
+                          href="https://github.com/topics/php"
                         >
-                          <span className="pj-file-icon pj-icon pj-social-icon pj-social-Javascript pj-text-custom-color-2 pj-icon-3">
-                            <img src="images/javascript.png" alt="" />
+                          <span className="pj-file-icon pj-icon pj-social-icon pj-social-php pj-text-custom-color-2 pj-icon-3">
+                            <img src="images/php.png" alt="" />
                           </span>
                         </a>
                         <a
                           className="pj-social-url"
                           target="_blank"
-                          data-type="React"
+                          data-type="Mysql"
                           title="React"
-                          href="https://github.com/topics/react"
+                          href="https://github.com/topics/mysql"
                         >
-                          <span className="pj-file-icon pj-icon pj-social-react pj-social-icon pj-text-custom-color-2 pj-icon-4">
-                            <img src="images/react.png" alt="" />
+                          <span className="pj-file-icon pj-icon pj-social-mysql pj-social-icon pj-text-custom-color-2 pj-icon-4">
+                            <img src="images/mysql.png" alt="" />
                           </span>
                         </a>
                       </div>
