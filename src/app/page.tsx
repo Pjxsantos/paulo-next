@@ -337,6 +337,53 @@ export default function Home() {
                           </span>
                         </a>
                       </div>
+                      <div
+                        className="pj-hover-feature pj-social-icons pj-spacing-31 pj-social-icons-1"
+                        data-animation-name="customAnimationIn"
+                        data-animation-duration={1000}
+                      >
+                        <a
+                          className="pj-social-url"
+                          title="html"
+                          target="_blank"
+                          href="https://github.com/topics/html"
+                        >
+                          <span className="pj-file-icon pj-icon pj-social-html pj-social-icon pj-text-custom-color-2 pj-icon-1">
+                            <img src="images/html.png" alt="" />
+                          </span>
+                        </a>
+                        <a
+                          className="pj-social-url"
+                          title="css"
+                          target="_blank"
+                          href="https://github.com/topics/css"
+                        >
+                          <span className="pj-file-icon pj-icon pj-social-icon pj-social-css pj-text-custom-color-2 pj-icon-2">
+                            <img src="images/css.png" alt="" />
+                          </span>
+                        </a>
+                        <a
+                          className="pj-social-url"
+                          title="Javascript"
+                          target="_blank"
+                          href="https://github.com/topics/javascript"
+                        >
+                          <span className="pj-file-icon pj-icon pj-social-icon pj-social-Javascript pj-text-custom-color-2 pj-icon-3">
+                            <img src="images/javascript.png" alt="" />
+                          </span>
+                        </a>
+                        <a
+                          className="pj-social-url"
+                          target="_blank"
+                          data-type="React"
+                          title="React"
+                          href="https://github.com/topics/react"
+                        >
+                          <span className="pj-file-icon pj-icon pj-social-react pj-social-icon pj-text-custom-color-2 pj-icon-4">
+                            <img src="images/react.png" alt="" />
+                          </span>
+                        </a>
+                      </div>
                     </div>
                   </div>
                 </div>
