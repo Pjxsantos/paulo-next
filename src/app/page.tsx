@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="google-site-verification" content="F9mN8BeSevdufyIO1vLtDnGJUHzBrVUhouivyUifDBY" />
       <meta charSet="utf-8" />
       <link rel="stylesheet" href="css/style.css" media="screen" />
       <link rel="stylesheet" href="css/pj.css" media="screen" />
