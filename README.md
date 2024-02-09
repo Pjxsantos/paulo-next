@@ -10,7 +10,7 @@
 ## 🚀 Tecnologias
 
 Esse repositório contém essas tais tecnologias :
-
+- React
 - Next.js
 - Typescript 
 - JavaScript
