@@ -207,7 +207,7 @@ export default function Home() {
                     className="pj-align-left pj-border-2 pj-border-custom-color-2 pj-file-icon pj-hover-feature pj-icon pj-icon-rounded pj-radius pj-icon-1"
                     data-animation-name="customAnimationIn"
                     data-animation-duration={1000}
-                    data-href="https://www.linkedin.com/in/pjxsantos/"
+                    data-href="https://www.linkedin.com/in/paulo-jorge-xavier-dos-santos-y/"
                   >
                     <img src="images/icons8-linkedin-94.png" alt="" />
                   </span>
@@ -813,7 +813,7 @@ export default function Home() {
                 className="pj-social-url"
                 title="Linkedin"
                 target="_blank"
-                href="https://www.linkedin.com/in/pjxsantos/"
+                href="https://www.linkedin.com/in/paulo-jorge-xavier-dos-santos-y/"
               >
                 <span className="pj-file-icon pj-icon pj-social-icon pj-social-linkedin pj-text-custom-color-2 pj-icon-3">
                   <img src="images/linkedin.png" alt="" />
