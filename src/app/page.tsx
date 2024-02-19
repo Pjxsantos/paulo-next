@@ -27,12 +27,12 @@ export default function Home() {
         property="og:image"
       />
       <meta name="theme-color" content="#1c1a86" />
-      <meta property="og:title" content="Portfólio Paulo Jorge" />
+      <meta property="og:title" content="Portfólio Paulo Jorge xavier dos santos" />
       <meta property="og:type" content="website" />
       <link rel="canonical" href="/" />
       <main
         data-home-page=""
-        data-home-page-title="Portfólio Paulo Jorge"
+        data-home-page-title="Portfólio Paulo Jorge xavier dos santos"
         data-path-to-root="./"
         data-include-products="false"
         className="pj-body pj-overlap pj-overlap-transparent pj-xl-mode"
