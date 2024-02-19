@@ -7,8 +7,8 @@ import Script from 'next/script'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Portfólio Paulo Jorge',
-  description: 'Olá, meu nome é Paulo Jorge crio web designs personalizados. Tenho habilidade em escrever códigos bem projetados, testáveis ​e eficientes usando as melhores práticas atuais em desenvolvimento Web. Aprendo rápido, trabalho duro e trabalho em equipe, com proficiência na criação de páginas da web criativas e inovadoras.',
+  title: 'Portfólio Paulo Jorge xavier dos santos',
+  description: 'Olá, meu nome é Paulo Jorge xavier dos santos crio web designs personalizados. Tenho habilidade em escrever códigos bem projetados, testáveis ​e eficientes usando as melhores práticas atuais em desenvolvimento Web. Aprendo rápido, trabalho duro e trabalho em equipe, com proficiência na criação de páginas da web criativas e inovadoras.',
 }
 
 export default function RootLayout({
