@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://portfolio-pjxsantos.vercel.app/sitemap.xml
+Sitemap: https://portfolio-pjxsantos.vercel.app/sitemap1.xml
