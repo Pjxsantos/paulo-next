@@ -1,13 +1,2 @@
-{
-  "type": "service_account",
-  "project_id": "paulo-jorge-xavier-dos-santos",
-  "private_key_id": "910a1b015bbf684af8a701c0e2726c4fe098eb61",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCa4DBGjH2GlRiA\niQChiuUg2VSt9YwjDR5E1uhzQWB/31t4PdOhm9NQ1eQKkQ+6FeIHK0UvC0yeFJlJ\nomBur5of/hpGYe6uH+v7ZWn7Nd1cC3tDyNyqlFj4e90JKrfihKUi59+j0qSkWeYb\nCfcmDuUjedcjyY3qBl/fbRvar/naXHaVJkuLJvn+ao9Kah7ocRPCreopGjYo8oYw\nrzwjax/GRqaObtk0AzkkbmbMkFmceVXNB1h5P7AqCbWo+xJIJxTODhmKgtbug+yL\n2rs+HbrN1HEPFZwEdcn6MUnD1ixjBc9APE5Z0JOQaIK1N4xhaCoCyDHpl1lnN08z\nox8W9gwrAgMBAAECggEANjg5PmGNynFk+A6+hU9qYsMjFZmqm1TK3X+9NihTn8Cy\ntZgzgFbctmaDJL3fGx7xF+BqoosaohcFCRXLG8TnOL8NNMmxNQ1g4IyC+1rCqagt\nWbA2rJMtyKQYYE6vvKICbANwNFqYoB8G4z1sZEr/phlQG6vCvoTHyKDaiQdlea+s\nY+lDkBNucVgsF79b71Lu0HuiYH0gQdttvcdQ8JOSxjl4hLWCWjKIntLk6ETVEJN+\nCN1HpKRKdfmQrNmT730iWYsU/3400vZk4Qd/uyPF+HDPvB63Jl+KrEMkfQB3FQUP\nn7FqkEinuu52zkoir6O9XFiY/85sgwLMuvqrFnNggQKBgQDVgmxq2IA1PsAiFuIx\n1/gsVwuqeqeKsPpah5sTakV9nXb5cxO+h2OBHism5jWnlB10WHgGUooBL0nTVCz6\nvAwMZ2hI0xtESQ0SLmXXDnUAj+Lw9j1h9qcICRPyFj7pRreZO5wCH+Y6qKeg/fXM\nD44WR8eV0+ChLsV7dIvKc9RBgQKBgQC5spPEtc8mCVQax3ktzNROuIAw5VsLv/ac\n6Qd/gSr/FvvdN6yW2P/6xyGmmETd8gPCp9rCTh60oMLg2SU52fEjDKvvVpo4Z8gB\neWLUWJdyx3dafvHucohvTEJwhPikLD4uYLBoJYFaEJJ+8wkgHi+w8vnmZaqIHToo\nb9xEDL3LqwKBgQCHPjNAxt0HXTVFIqurGPuJ0qWAGmuQLaSXvbgcZz+XXywivKMw\nGACOpDZ/UGmCOg8iSHvWvWfPck3YQESxmnYjUUk8gASQj5lo/9zgibbRYVNGgSPG\nrv+E1oM84Jx/FZ1swdaDfgNO+tAb6WJOHThKorMpE+oBD2hmWB/IYPB9gQKBgDUf\n9pBXJw0NrCcBHBTTPYXL2LikVPi2kVnwfLmofWF+9M0jyVdae1kGMQVVGJaaTyMY\nHEhsSvKH71ieJr03MXpCfMm67+HlJt3tGS4Arksi721PVe1OjOOyYGuKTwvAsIVa\nGf2hhTD7/r0c0GaE3EX2LTIRscjA+8tnvQ8mygGDAoGAM22SBYR8KRF0GxPCVHtN\nV0A8U13/L45RyMSsR3hIB6zqJwodYq6skhq/8GrtovdgzZ2l9Yk5QpGkXHbYpp+V\nW23mFMJNLkbQ9J73uSTlveQtxfEU919redw3LnCNaxM0wpqvD54sRifAaVcUWBSV\nET5Sj2DQkH1K8WcwIzOZtZI=\n-----END PRIVATE KEY-----\n",
-  "client_email": "paulo-jorge-xavier-dos-santos@paulo-jorge-xavier-dos-santos.iam.gserviceaccount.com",
-  "client_id": "110587104916126498489",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/paulo-jorge-xavier-dos-santos%40paulo-jorge-xavier-dos-santos.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+
 }
