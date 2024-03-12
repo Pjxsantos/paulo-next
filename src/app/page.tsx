@@ -208,7 +208,7 @@ export default function Home() {
                     className="pj-align-left pj-border-2 pj-border-custom-color-2 pj-file-icon pj-hover-feature pj-icon pj-icon-rounded pj-radius pj-icon-1"
                     data-animation-name="customAnimationIn"
                     data-animation-duration={1000}
-                    data-href="https://www.linkedin.com/in/paulo-jorge-xavier-dos-santos-43282b2b5/"
+                    data-href="https://www.linkedin.com/"
                   >
                     <img src="images/icons8-linkedin-94.png" alt="" />
                   </span>
@@ -228,7 +228,7 @@ export default function Home() {
                 data-animation-duration={1000}
               >
                 {" "}
-                Desenvolvedor: Paulo Jorge{" "}
+                Desenvolvedor: Paulo Xavier{" "}
               </p>
               <a
                 href="mailto:pjxsantos.portfolio@gmail.com"
@@ -282,7 +282,7 @@ export default function Home() {
                       </h5>
                       <p className="pj-align-left pj-heading-font pj-text pj-text-3">
                         <span className="pj-text-custom-color-2">&lt; </span>Meu
-                        nome é Paulo Jorge, crio web designs personalizados.
+                        nome é Paulo Xavier, crio web designs personalizados.
                         Tenho habilidade em escrever códigos bem projetados,
                         testáveis ​e eficientes usando as melhores práticas
                         atuais em desenvolvimento Web. Aprendo rápido, trabalho
@@ -804,7 +804,7 @@ export default function Home() {
                 className="pj-social-url"
                 title="Gmail"
                 target="_blank"
-                href="mailto:pjxsantos.portfolio@gmail.com"
+                href="mailto:pauloaminsantos@gmail.com"
               >
                 <span className="pj-file-icon pj-icon pj-social-icon pj-social-gmail pj-text-custom-color-2 pj-icon-2">
                   <img src="images/gmail.png" alt="" />
@@ -814,7 +814,7 @@ export default function Home() {
                 className="pj-social-url"
                 title="Linkedin"
                 target="_blank"
-                href="https://www.linkedin.com/in/paulo-jorge-xavier-dos-santos-43282b2b5/"
+                href="https://www.linkedin.com/"
               >
                 <span className="pj-file-icon pj-icon pj-social-icon pj-social-linkedin pj-text-custom-color-2 pj-icon-3">
                   <img src="images/linkedin.png" alt="" />
