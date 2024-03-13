@@ -231,12 +231,12 @@ export default function Home() {
                 Desenvolvedor: Paulo Xavier{" "}
               </p>
               <a
-                href="mailto:pjxsantos.portfolio@gmail.com"
+                href="mailto:pjxs@outlook.pt"
                 className="pj-active-none pj-align-left pj-border-2 pj-border-hover-grey-75 pj-border-no-left pj-border-no-right pj-border-no-top pj-border-white pj-btn pj-button-style pj-hover-none pj-none pj-btn-1"
                 data-animation-name="customAnimationIn"
                 data-animation-duration={1000}
               >
-                pauloaminsantos@gmail.com{" "}
+                pjxs@outlook.pt{" "}
               </a>
             </div>
           </div>
