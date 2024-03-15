@@ -522,7 +522,7 @@ export default function Home() {
               porque&nbsp;é&nbsp;divertido&nbsp;programar.
               <b>
                 <span style={{ fontStyle: "italic" }}>{"\n"}"&nbsp;</span>Paulo​
-                Jorge
+                Xavier
                 <span style={{ fontStyle: "italic" }}>"</span>
               </b>
             </p>
@@ -615,7 +615,7 @@ export default function Home() {
                     <p className="pj-text pj-text-black pj-text-default pj-text-1">
                       {" "}
                       Olá, Como vai? Meu nome é{" "}
-                      <span style={{ fontWeight: 700 }}>Paulo Jorge</span> e
+                      <span style={{ fontWeight: 700 }}>Paulo Xavier</span> e
                       estou à disposição para ajudá-lo. O que você precisa
                       hoje?​ ​clique no botão abaixo para iniciar uma conversa!
                       <br />
