@@ -1,5 +1,5 @@
 new Typed('#typed',{
-  strings : ['Desenvolvedor Front-End!','Apaixonado por código!'],
+  strings : ['Desenvolvedor full stack!','Apaixonado por código!'],
   typeSpeed : 100,
   delaySpeed : 60,
   cursorChar: '_',
