@@ -20,7 +20,7 @@ export default function Home() {
         rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Allerta+Stencil:400|Aclonica:400"
       />
-      <meta name="generator" content="Pjxsantos 1.0.4, github.com/Pjxsantos" />
+      <meta name="generator" content="Pjxsantos 1.0.5, github.com/Pjxsantos" />
 
       <meta
         content="https://portfolio-pjxsantos.vercel.app/images/paulo.jpg"
