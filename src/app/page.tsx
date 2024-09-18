@@ -200,7 +200,7 @@ export default function Home() {
                 data-animation-duration={1000}
               >
                 {" "}
-                Produtos digitais que estão mudando este mundo
+                Produtos digitais que estão mudando este mundo 2024
               </h1>
               <div className="pj-container-align-left-lg pj-container-align-left-md pj-container-align-left-sm pj-container-align-left-xl pj-container-style pj-group pj-shape-rectangle pj-group-2">
                 <div className="pj-container-layout pj-container-layout-2">
